@@ -1789,8 +1789,8 @@ a:visited {
 * 10. mailchimp styles
 */
 .mailchimp-one {
-  padding-top: 110px;
-  padding-bottom: 120px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   background-image: linear-gradient(40deg, #ff43c0 0%, #ffa95c 100%);
 }
 .mailchimp-one .block-title__title {
