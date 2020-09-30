@@ -219,48 +219,6 @@
                 </div><!-- /.row -->
             </div><!-- /.container -->
         </section><!-- /.cta-two -->
-        <div class="brand-one">
-            <div class="container">
-                <div class="brand-one__carousel owl-carousel owl-theme">
-                    <div class="item">
-                        <img src="assets/images/resources/brand-1-1.png" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/resources/brand-1-1.png" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/resources/brand-1-1.png" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/resources/brand-1-1.png" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/resources/brand-1-1.png" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/resources/brand-1-1.png" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/resources/brand-1-1.png" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/resources/brand-1-1.png" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/resources/brand-1-1.png" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/resources/brand-1-1.png" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/resources/brand-1-1.png" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/resources/brand-1-1.png" alt="">
-                    </div><!-- /.item -->
-                </div><!-- /.brand-one__carousel owl-carousel owl-theme -->
-            </div><!-- /.container -->
-        </div><!-- /.brand-one -->
         <section class="app-shot-one" id="screenshots">
             <img src="assets/images/background/app-shot-bg.png" alt="Awesome Image" class="app-shot-one__bg" />
             <div class="container-fluid">
