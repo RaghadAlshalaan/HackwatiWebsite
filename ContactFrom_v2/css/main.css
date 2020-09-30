@@ -252,7 +252,7 @@ iframe {
   content: attr(data-placeholder);
   display: block;
   width: 100%;
-  position: absolute;
+  position: relative;
   top: 0px;
   left: 0;
 
@@ -265,8 +265,8 @@ iframe {
   -o-transition: all 0.4s;
   -moz-transition: all 0.4s;
   transition: all 0.4s;
-  justify-content: flex-end;
-  align-items: flex-end;
+  float: right
+
 }
 
 /*---------------------------------------------*/
