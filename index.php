@@ -288,7 +288,7 @@
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
                             <div class="blog-one__content">
-                              <h6>رغد الشعلان</h6>
+                              <h6 class="text-center">رغد الشعلان</h6>
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
@@ -300,7 +300,7 @@
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
                             <div class="blog-one__content">
-                                <h6>أسماء الجديع</h6>
+                                <h6 class="text-center">أسماء الجديع</h6>
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
@@ -312,7 +312,7 @@
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
                             <div class="blog-one__content">
-                                 <h6>غيداء العجاجي</h6>
+                                 <h6 class="text-center">غيداء العجاجي</h6>
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
@@ -324,7 +324,7 @@
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
                             <div class="blog-one__content">
-                                <h6>شادن الرومي</h6>
+                                <h6 class="text-center">شادن الرومي</h6>
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
@@ -336,7 +336,7 @@
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
                             <div class="blog-one__content">
-                                <h6>فاطمة القحطاني</h6>
+                                <h6 class="text-center">فاطمة القحطاني</h6>
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
