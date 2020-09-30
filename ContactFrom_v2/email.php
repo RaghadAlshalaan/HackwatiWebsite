@@ -38,7 +38,7 @@
 
 					<div class="wrap-input2 validate-input" data-validate = "اكتب رسالة">
 						<textarea class="input2" name="message"></textarea>
-						<span class="focus-input2" data-placeholder="الرسالة"></span>
+						<span class="focus-input2" data-placeholder="الرسالة" style="direction: rtl"></span>
 					</div>
 
 					<div class="container-contact2-form-btn">
