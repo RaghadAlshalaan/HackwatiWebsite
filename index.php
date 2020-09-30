@@ -642,9 +642,10 @@
             </div><!-- /.container -->
         </section><!-- /.blog-one blog-one__home -->
         <section class="mailchimp-one">
-        <?php require 'ContactFrom_v2/email.php';?>
 
             <div class="container">
+                        <?php require 'ContactFrom_v2/email.php';?>
+
                 <div class="block-title text-center">
                 </div><!-- /.block-title -->
                 
