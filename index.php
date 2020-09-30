@@ -644,8 +644,9 @@
         <section class="mailchimp-one">
             <div class="container">
                 <div class="block-title text-center">
-                    <h2 class="block-title__title">Subscribe Our <span>Newsletter</span> <br> to Get New Updates.</h2><!-- /.block-title__title -->
                 </div><!-- /.block-title -->
+                
+                <?php include 'ContactFrom_v2/email.php';?>
     
                 <div class="mc-form__response"></div><!-- /.mc-form__response -->
             </div><!-- /.container -->
