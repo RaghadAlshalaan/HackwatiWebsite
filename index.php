@@ -29,7 +29,7 @@
 
 <body>
     <div class="preloader">
-        <img src="assets/images/resources/preloader.png" class="preloader__image" alt="">
+        <img src="assets/images/logo.png" class="preloader__image" alt="">
     </div><!-- /.preloader -->
     <div class="page-wrapper">
         <header class="site-header site-header__header-one ">
