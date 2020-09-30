@@ -644,6 +644,8 @@
 
 
         <section class="mailchimp-one">
+              <div class="block-title text-center"> تواصل معنا
+                </div><!-- /.block-title -->
 
             <div>
             <?php include 'ContactFrom_v2/email.php';?>
@@ -667,8 +669,7 @@
 
                 
                 </script>
-                <div class="block-title text-center">
-                </div><!-- /.block-title -->
+              
                 <div>
                 </div><!-- /.mc-form__response -->
             </div><!-- /.container -->
