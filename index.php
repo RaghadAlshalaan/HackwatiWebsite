@@ -5,10 +5,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Home One || Dimon || App Landing Page HTML Template</title>
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png">
+    <title>حكواتي</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/logo.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/logo.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/logo.png">
     <link rel="manifest" href="assets/images/favicons/site.webmanifest">
 
     <!-- plugin scripts -->
@@ -29,7 +29,7 @@
 
 <body>
     <div class="preloader">
-        <img src="assets/images/resources/preloader.png" class="preloader__image" alt="">
+        <img src="assets/images/logo.png" class="preloader__image" alt="">
     </div><!-- /.preloader -->
     <div class="page-wrapper">
         <header class="site-header site-header__header-one ">
@@ -219,247 +219,6 @@
                 </div><!-- /.row -->
             </div><!-- /.container -->
         </section><!-- /.cta-two -->
-        <section class="pricing-one" id="pricing">
-            <div class="container">
-                <div class="block-title text-center">
-                    <h2 class="block-title__title">Choose <span>Pricing Plans</span> Which <br> Suits Your Needs.</h2><!-- /.block-title__title -->
-                </div><!-- /.block-title -->
-                <ul class="list-inline text-center switch-toggler-list" role="tablist" id="switch-toggle-tab">
-                    <li class="month active"><a href="#">Monthly</a></li>
-                    <li>
-                        <!-- Rounded switch -->
-                        <label class="switch on">
-                            <span class="slider round"></span>
-                        </label>
-                    </li>
-                    <li class="year"><a href="#">Yearly</a></li>
-                </ul><!-- /.list-inline -->
-                <div class="tabed-content">
-                    <div id="month">
-                        <div class="row pricing-one__price-row">
-                            <div class="col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
-                                <div class="pricing-one__single text-center">
-                                    <h3>$20.00</h3>
-                                    <p>basic pack</p>
-                                    <ul class="list-unstyled">
-                                        <li>Extra features</li>
-                                        <li>Lifetime free support</li>
-                                        <li>Upgrate options</li>
-                                        <li>Full access</li>
-                                    </ul><!-- /.list-unstyled -->
-                                    <a href="#" class="thm-btn pricing-one__btn"><span>Choose Plan</span></a>
-                                    <span class="tag-line">No hidden charges!</span>
-                                </div><!-- /.pricing-one__single -->
-                            </div><!-- /.col-lg-4 -->
-                            <div class="col-lg-4 wow fadeInDown" data-wow-duration="1500ms">
-                                <div class="pricing-one__single text-center">
-                                    <h3>$30.00</h3>
-                                    <p>medium pack</p>
-                                    <ul class="list-unstyled">
-                                        <li>Extra features</li>
-                                        <li>Lifetime free support</li>
-                                        <li>Upgrate options</li>
-                                        <li>Full access</li>
-                                    </ul><!-- /.list-unstyled -->
-                                    <a href="#" class="thm-btn pricing-one__btn"><span>Choose Plan</span></a>
-                                    <span class="tag-line">No hidden charges!</span>
-                                </div><!-- /.pricing-one__single -->
-                            </div><!-- /.col-lg-4 -->
-                            <div class="col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
-                                <div class="pricing-one__single text-center">
-                                    <h3>$40.00</h3>
-                                    <p>premium pack</p>
-                                    <ul class="list-unstyled">
-                                        <li>Extra features</li>
-                                        <li>Lifetime free support</li>
-                                        <li>Upgrate options</li>
-                                        <li>Full access</li>
-                                    </ul><!-- /.list-unstyled -->
-                                    <a href="#" class="thm-btn pricing-one__btn"><span>Choose Plan</span></a>
-                                    <span class="tag-line">No hidden charges!</span>
-                                </div><!-- /.pricing-one__single -->
-                            </div><!-- /.col-lg-4 -->
-                        </div><!-- /.row -->
-                    </div><!-- /#month -->
-                    <div id="year">
-                        <div class="row pricing-one__price-row">
-                            <div class="col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
-                                <div class="pricing-one__single text-center">
-                                    <h3>$20.00</h3>
-                                    <p>basic pack</p>
-                                    <ul class="list-unstyled">
-                                        <li>Extra features</li>
-                                        <li>Lifetime free support</li>
-                                        <li>Upgrate options</li>
-                                        <li>Full access</li>
-                                    </ul><!-- /.list-unstyled -->
-                                    <a href="#" class="thm-btn pricing-one__btn"><span>Choose Plan</span></a>
-                                    <span class="tag-line">No hidden charges!</span>
-                                </div><!-- /.pricing-one__single -->
-                            </div><!-- /.col-lg-4 -->
-                            <div class="col-lg-4 wow fadeInDown" data-wow-duration="1500ms">
-                                <div class="pricing-one__single text-center">
-                                    <h3>$30.00</h3>
-                                    <p>medium pack</p>
-                                    <ul class="list-unstyled">
-                                        <li>Extra features</li>
-                                        <li>Lifetime free support</li>
-                                        <li>Upgrate options</li>
-                                        <li>Full access</li>
-                                    </ul><!-- /.list-unstyled -->
-                                    <a href="#" class="thm-btn pricing-one__btn"><span>Choose Plan</span></a>
-                                    <span class="tag-line">No hidden charges!</span>
-                                </div><!-- /.pricing-one__single -->
-                            </div><!-- /.col-lg-4 -->
-                            <div class="col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
-                                <div class="pricing-one__single text-center">
-                                    <h3>$40.00</h3>
-                                    <p>premium pack</p>
-                                    <ul class="list-unstyled">
-                                        <li>Extra features</li>
-                                        <li>Lifetime free support</li>
-                                        <li>Upgrate options</li>
-                                        <li>Full access</li>
-                                    </ul><!-- /.list-unstyled -->
-                                    <a href="#" class="thm-btn pricing-one__btn"><span>Choose Plan</span></a>
-                                    <span class="tag-line">No hidden charges!</span>
-                                </div><!-- /.pricing-one__single -->
-                            </div><!-- /.col-lg-4 -->
-                        </div><!-- /.row -->
-                    </div><!-- /#year -->
-                </div><!-- /.tabed-content -->
-            </div><!-- /.container -->
-        </section><!-- /.pricing-one -->
-        <section class="testimonials-one">
-            <div class="container">
-                <div class="block-title text-center">
-                    <h2 class="block-title__title">What Our <span>Clients</span> Say <br> About Us.</h2><!-- /.block-title__title -->
-                </div><!-- /.block-title -->
-                <div class="testimonials-one__carousel-outer">
-                    <div class="testimonials-one__carousel owl-carousel owl-theme">
-                        <div class="item">
-                            <div class="testimonials-one__single">
-                                <div class="testimonials-one__inner">
-                                    <p>This is due to their excellent service, competitive pricing and <br> customer support. It’s throughly refresing to get such a personal <br> touch. Duis aute irure dolor in reprehenderit.</p>
-                                    <h3>Shirley Smith</h3>
-                                    <span>Our Customers</span>
-                                    <img src="assets/images/resources/testi-1-1.png" alt="Awesome Image" />
-                                </div><!-- /.testimonials-one__inner -->
-                            </div><!-- /.testimonials-one__single -->
-                        </div><!-- /.item -->
-                        <div class="item">
-                            <div class="testimonials-one__single">
-                                <div class="testimonials-one__inner">
-                                    <p>This is due to their excellent service, competitive pricing and <br> customer support. It’s throughly refresing to get such a personal <br> touch. Duis aute irure dolor in reprehenderit.</p>
-                                    <h3>Shirley Smith</h3>
-                                    <span>Our Customers</span>
-                                    <img src="assets/images/resources/testi-1-1.png" alt="Awesome Image" />
-                                </div><!-- /.testimonials-one__inner -->
-                            </div><!-- /.testimonials-one__single -->
-                        </div><!-- /.item -->
-                        <div class="item">
-                            <div class="testimonials-one__single">
-                                <div class="testimonials-one__inner">
-                                    <p>This is due to their excellent service, competitive pricing and <br> customer support. It’s throughly refresing to get such a personal <br> touch. Duis aute irure dolor in reprehenderit.</p>
-                                    <h3>Shirley Smith</h3>
-                                    <span>Our Customers</span>
-                                    <img src="assets/images/resources/testi-1-1.png" alt="Awesome Image" />
-                                </div><!-- /.testimonials-one__inner -->
-                            </div><!-- /.testimonials-one__single -->
-                        </div><!-- /.item -->
-                    </div><!-- /.testimonials-one__carousel -->
-                    <div class="testimonials-one__carousel__shape-one"></div><!-- /.testimonials-one__carousel__shape-one -->
-                    <div class="testimonials-one__carousel__shape-two"></div><!-- /.testimonials-one__carousel__shape-two -->
-                    <div class="testimonials-one__nav">
-                        <a class="testimonials-one__nav-left" href="#"><i class="dimon-icon-left-arrow"></i></a>
-                        <a class="testimonials-one__nav-right" href="#"><i class="dimon-icon-right-arrow"></i></a>
-                    </div><!-- /.testimonials-one__nav -->
-                </div><!-- /.testimonials-one__carousel-outer -->
-            </div><!-- /.container -->
-        </section><!-- /.testimonials-one -->
-        <div class="brand-one">
-            <div class="container">
-                <div class="brand-one__carousel owl-carousel owl-theme">
-                    <div class="item">
-                        <img src="assets/images/resources/brand-1-1.png" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/resources/brand-1-1.png" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/resources/brand-1-1.png" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/resources/brand-1-1.png" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/resources/brand-1-1.png" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/resources/brand-1-1.png" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/resources/brand-1-1.png" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/resources/brand-1-1.png" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/resources/brand-1-1.png" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/resources/brand-1-1.png" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/resources/brand-1-1.png" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/resources/brand-1-1.png" alt="">
-                    </div><!-- /.item -->
-                </div><!-- /.brand-one__carousel owl-carousel owl-theme -->
-            </div><!-- /.container -->
-        </div><!-- /.brand-one -->
-        <section class="fact-one">
-            <div class="container">
-                <div class="block-title text-center">
-                    <h2 class="block-title__title">Over 2200 <span>Projects</span> <br> Completed.</h2><!-- /.block-title__title -->
-                </div><!-- /.block-title -->
-                <div class="row">
-                    <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
-                        <div class="fact-one__single">
-                            <div class="fact-one__inner">
-                                <h3 class="fact-one__count counter">4789</h3><!-- /.fact-one__count counter -->
-                                <p class="fact-one__text">projects</p><!-- /.fact-one__text -->
-                            </div><!-- /.fact-one__inner -->
-                        </div><!-- /.fact-one__single -->
-                    </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
-                    <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
-                        <div class="fact-one__single">
-                            <div class="fact-one__inner">
-                                <h3 class="fact-one__count counter">6400</h3><!-- /.fact-one__count counter -->
-                                <p class="fact-one__text">customers</p><!-- /.fact-one__text -->
-                            </div><!-- /.fact-one__inner -->
-                        </div><!-- /.fact-one__single -->
-                    </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
-                    <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
-                        <div class="fact-one__single">
-                            <div class="fact-one__inner">
-                                <h3 class="fact-one__count counter">960</h3><!-- /.fact-one__count counter -->
-                                <p class="fact-one__text">success</p><!-- /.fact-one__text -->
-                            </div><!-- /.fact-one__inner -->
-                        </div><!-- /.fact-one__single -->
-                    </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
-                    <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
-                        <div class="fact-one__single">
-                            <div class="fact-one__inner">
-                                <h3 class="fact-one__count counter">378</h3><!-- /.fact-one__count counter -->
-                                <p class="fact-one__text">awards</p><!-- /.fact-one__text -->
-                            </div><!-- /.fact-one__inner -->
-                        </div><!-- /.fact-one__single -->
-                    </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
-                </div><!-- /.row -->
-            </div><!-- /.container -->
-        </section><!-- /.fact-one -->
         <section class="app-shot-one" id="screenshots">
             <img src="assets/images/background/app-shot-bg.png" alt="Awesome Image" class="app-shot-one__bg" />
             <div class="container-fluid">
@@ -515,71 +274,25 @@
                 </div><!-- /.app-shot-one__carousel owl-theme owl-carousel -->
             </div><!-- /.container-fluid -->
         </section><!-- /.app-shot-one -->
-        <section class="faq-one">
-            <img src="assets/images/background/faq-one-bg.png" alt="Awesome Image" class="faq-one__bg" />
-            <div class="container">
-                <div class="block-title text-center">
-                    <h2 class="block-title__title">Want to Ask <span>Something</span> <br> From Us?</h2><!-- /.block-title__title -->
-                </div><!-- /.block-title -->
-                <div class="accrodion-grp" data-grp-name="faq-accrodion">
-                    <div class="accrodion active wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="0ms">
-                        <div class="accrodion-inner">
-                            <div class="accrodion-title">
-                                <h4>Pre and post launch mobile app marketing pitfalls to avoid</h4>
-                            </div>
-                            <div class="accrodion-content">
-                                <div class="inner">
-                                    <p>There are many variations of passages of available but majority have alteration in some by inject humour or random words. Lorem ipsum dolor sit amet, error insolens reprimique no quo, ea pri verterem phaedr vel ea iisque aliquam.</p>
-                                </div><!-- /.inner -->
-                            </div>
-                        </div><!-- /.accrodion-inner -->
-                    </div>
-                    <div class="accrodion  wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="100ms">
-                        <div class="accrodion-inner">
-                            <div class="accrodion-title">
-                                <h4>Boostup your application traffic is just a step away</h4>
-                            </div>
-                            <div class="accrodion-content">
-                                <div class="inner">
-                                    <p>There are many variations of passages of available but majority have alteration in some by inject humour or random words. Lorem ipsum dolor sit amet, error insolens reprimique no quo, ea pri verterem phaedr vel ea iisque aliquam.</p>
-                                </div><!-- /.inner -->
-                            </div>
-                        </div><!-- /.accrodion-inner -->
-                    </div>
-                    <div class="accrodion wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="200ms">
-                        <div class="accrodion-inner">
-                            <div class="accrodion-title">
-                                <h4>How to update application new features</h4>
-                            </div>
-                            <div class="accrodion-content">
-                                <div class="inner">
-                                    <p>There are many variations of passages of available but majority have alteration in some by inject humour or random words. Lorem ipsum dolor sit amet, error insolens reprimique no quo, ea pri verterem phaedr vel ea iisque aliquam.</p>
-                                </div><!-- /.inner -->
-                            </div>
-                        </div><!-- /.accrodion-inner -->
-                    </div>
-                    <div class="accrodion wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="300ms">
-                        <div class="accrodion-inner">
-                            <div class="accrodion-title">
-                                <h4>How to connect with the support to improve app experience</h4>
-                            </div>
-                            <div class="accrodion-content">
-                                <div class="inner">
-                                    <p>There are many variations of passages of available but majority have alteration in some by inject humour or random words. Lorem ipsum dolor sit amet, error insolens reprimique no quo, ea pri verterem phaedr vel ea iisque aliquam.</p>
-                                </div><!-- /.inner -->
-                            </div>
-                        </div><!-- /.accrodion-inner -->
-                    </div>
-                </div>
-            </div><!-- /.container -->
-        </section><!-- /.faq-one -->
         <section class="blog-one blog-one__home thm-gray-bg" id="news">
             <div class="container">
                 <div class="block-title text-center">
-                    <h2 class="block-title__title">Checkout Our <span>Latest</span> <br> News & Articles.</h2><!-- /.block-title__title -->
+                    <h2 class="block-title__title">المطورين</h2><!-- /.block-title__title -->
                 </div><!-- /.block-title -->
-                <div class="row">
-                    <div class="col-lg-4 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
+                <div class="row justify-content-md-center">
+                    <div class="col-lg-2 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
+                        <div class="blog-one__single">
+                            <div class="blog-one__image">
+                                <img src="assets/images/woman.png" alt="">
+                                <a class="blog-one__more-link" href="news-details.html"><i class="fa fa-link"></i>
+                                    <!-- /.fa fa-link --></a>
+                            </div><!-- /.blog-one__image -->
+                            <div class="blog-one__content">
+                              <h6 class="text-center">رغد الشعلان</h6>
+                            </div><!-- /.blog-one__content -->
+                        </div><!-- /.blog-one__single -->
+                    </div><!-- /.col-lg-4 -->
+                    <div class="col-lg-2 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="blog-one__single">
                             <div class="blog-one__image">
                                 <img src="assets/images/blog/blog-1-1.jpg" alt="">
@@ -587,18 +300,23 @@
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
                             <div class="blog-one__content">
-                                <ul class="list-unstyled blog-one__meta">
-                                    <li><a href="#">22 Oct, 2019</a></li>
-                                    <li><a href="#">2 Comments</a></li>
-                                </ul><!-- /.list-unstyled -->
-                                <h3 class="blog-one__title">
-                                    <a href="news-details.html">Pre and post launch mobile app marketing pitfalls to avoid</a>
-                                </h3><!-- /.blog-one__title -->
-                                <a href="news-details.html" class="blog-one__link">Read More</a><!-- /.blog-one__link -->
+                                <h6 class="text-center">أسماء الجديع</h6>
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
-                    <div class="col-lg-4 col-md-12 col-sm-12 wow fadeInDown" data-wow-duration="1500ms">
+                    <div class="col-lg-2 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
+                        <div class="blog-one__single">
+                            <div class="blog-one__image">
+                                <img src="assets/images/blog/blog-1-1.jpg" alt="">
+                                <a class="blog-one__more-link" href="news-details.html"><i class="fa fa-link"></i>
+                                    <!-- /.fa fa-link --></a>
+                            </div><!-- /.blog-one__image -->
+                            <div class="blog-one__content">
+                                 <h6 class="text-center">غيداء العجاجي</h6>
+                            </div><!-- /.blog-one__content -->
+                        </div><!-- /.blog-one__single -->
+                    </div><!-- /.col-lg-4 -->
+                    <div class="col-lg-2 col-md-12 col-sm-12 wow fadeInDown" data-wow-duration="1500ms">
                         <div class="blog-one__single">
                             <div class="blog-one__image">
                                 <img src="assets/images/blog/blog-1-2.jpg" alt="">
@@ -606,19 +324,11 @@
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
                             <div class="blog-one__content">
-                                <ul class="list-unstyled blog-one__meta">
-                                    <li><a href="#">22 Oct, 2019</a></li>
-                                    <li><a href="#">2 Comments</a></li>
-                                </ul><!-- /.list-unstyled -->
-                                <h3 class="blog-one__title">
-                                    <a href="news-details.html">It is all exactly as i said, but i don't like it let's unpack
-                                        that</a>
-                                </h3><!-- /.blog-one__title -->
-                                <a href="news-details.html" class="blog-one__link">Read More</a><!-- /.blog-one__link -->
+                                <h6 class="text-center">شادن الرومي</h6>
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
-                    <div class="col-lg-4 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
+                    <div class="col-lg-2 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="blog-one__single">
                             <div class="blog-one__image">
                                 <img src="assets/images/blog/blog-1-3.jpg" alt="">
@@ -626,15 +336,7 @@
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
                             <div class="blog-one__content">
-                                <ul class="list-unstyled blog-one__meta">
-                                    <li><a href="#">22 Oct, 2019</a></li>
-                                    <li><a href="#">2 Comments</a></li>
-                                </ul><!-- /.list-unstyled -->
-                                <h3 class="blog-one__title">
-                                    <a href="news-details.html">I just wanted to give you a heads-up, or this you feel you
-                                        would</a>
-                                </h3><!-- /.blog-one__title -->
-                                <a href="news-details.html" class="blog-one__link">Read More</a><!-- /.blog-one__link -->
+                                <h6 class="text-center">فاطمة القحطاني</h6>
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
