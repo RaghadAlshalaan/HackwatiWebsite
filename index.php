@@ -644,7 +644,7 @@
 
 
         <section class="mailchimp-one">
-              <div class="block-title text-center"> تواصل معنا
+              <div class="block-title text-center"> <h1>تواصل معنا</h1>
                 </div><!-- /.block-title -->
 
             <div>
