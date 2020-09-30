@@ -288,7 +288,7 @@
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
                             <div class="blog-one__content">
-                              <h6>name</h6>
+                              <h6>رغد الشعلان</h6>
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
@@ -300,14 +300,7 @@
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
                             <div class="blog-one__content">
-                                <ul class="list-unstyled blog-one__meta">
-                                    <li><a href="#">22 Oct, 2019</a></li>
-                                    <li><a href="#">2 Comments</a></li>
-                                </ul><!-- /.list-unstyled -->
-                                <h3 class="blog-one__title">
-                                    <a href="news-details.html">Pre and post launch mobile app marketing pitfalls to avoid</a>
-                                </h3><!-- /.blog-one__title -->
-                                <a href="news-details.html" class="blog-one__link">Read More</a><!-- /.blog-one__link -->
+                                <h6>أسماء الجديع</h6>
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
@@ -319,14 +312,7 @@
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
                             <div class="blog-one__content">
-                                <ul class="list-unstyled blog-one__meta">
-                                    <li><a href="#">22 Oct, 2019</a></li>
-                                    <li><a href="#">2 Comments</a></li>
-                                </ul><!-- /.list-unstyled -->
-                                <h3 class="blog-one__title">
-                                    <a href="news-details.html">Pre and post launch mobile app marketing pitfalls to avoid</a>
-                                </h3><!-- /.blog-one__title -->
-                                <a href="news-details.html" class="blog-one__link">Read More</a><!-- /.blog-one__link -->
+                                 <h6>غيداء العجاجي</h6>
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
@@ -338,15 +324,7 @@
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
                             <div class="blog-one__content">
-                                <ul class="list-unstyled blog-one__meta">
-                                    <li><a href="#">22 Oct, 2019</a></li>
-                                    <li><a href="#">2 Comments</a></li>
-                                </ul><!-- /.list-unstyled -->
-                                <h3 class="blog-one__title">
-                                    <a href="news-details.html">It is all exactly as i said, but i don't like it let's unpack
-                                        that</a>
-                                </h3><!-- /.blog-one__title -->
-                                <a href="news-details.html" class="blog-one__link">Read More</a><!-- /.blog-one__link -->
+                                <h6>شادن الرومي</h6>
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
@@ -358,15 +336,7 @@
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
                             <div class="blog-one__content">
-                                <ul class="list-unstyled blog-one__meta">
-                                    <li><a href="#">22 Oct, 2019</a></li>
-                                    <li><a href="#">2 Comments</a></li>
-                                </ul><!-- /.list-unstyled -->
-                                <h3 class="blog-one__title">
-                                    <a href="news-details.html">I just wanted to give you a heads-up, or this you feel you
-                                        would</a>
-                                </h3><!-- /.blog-one__title -->
-                                <a href="news-details.html" class="blog-one__link">Read More</a><!-- /.blog-one__link -->
+                                <h6>فاطمة القحطاني</h6>
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
