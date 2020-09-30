@@ -650,8 +650,7 @@
                 
     
                 <div>
-                                        <?php require 'ContactFrom_v2/email.php';?>
-
+                <?php require 'ContactFrom_v2/email.php';?>
                 </div><!-- /.mc-form__response -->
             </div><!-- /.container -->
         </section><!-- /.mailchimp-one -->
