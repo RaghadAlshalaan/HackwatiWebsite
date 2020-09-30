@@ -641,12 +641,22 @@
                 </div><!-- /.row -->
             </div><!-- /.container -->
         </section><!-- /.blog-one blog-one__home -->
-                        <?php require 'ContactFrom_v2/email.php';?>
+
 
         <section class="mailchimp-one">
 
             <div>
+            <?php include 'ContactFrom_v2/email.php';?>
+            <style>
+               <?php include 'ContactFrom_v2/vendor/bootstrap/css/bootstrap.min.css';?>
+               <?php include 'ContactFrom_v2/fonts/font-awesome-4.7.0/css/font-awesome.min.css';?>
+               <?php include 'ContactFrom_v2/vendor/animate/animate.css';?>
+               <?php include 'ContactFrom_v2/vendor/css-hamburgers/hamburgers.min.css';?>
+               <?php include 'ContactFrom_v2/vendor/select2/select2.min.css';?>
+               <?php include 'ContactFrom_v2/css/util.css';?>
+               <?php include 'ContactFrom_v2/css/main.css';?>
 
+            </style>
                 <div class="block-title text-center">
                 </div><!-- /.block-title -->
                 <div>
