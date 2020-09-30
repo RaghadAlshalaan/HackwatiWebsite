@@ -641,16 +641,15 @@
                 </div><!-- /.row -->
             </div><!-- /.container -->
         </section><!-- /.blog-one blog-one__home -->
+                        <?php require 'ContactFrom_v2/email.php';?>
+
         <section class="mailchimp-one">
 
             <div>
 
                 <div class="block-title text-center">
                 </div><!-- /.block-title -->
-                
-    
                 <div>
-                <?php require 'ContactFrom_v2/email.php';?>
                 </div><!-- /.mc-form__response -->
             </div><!-- /.container -->
         </section><!-- /.mailchimp-one -->
