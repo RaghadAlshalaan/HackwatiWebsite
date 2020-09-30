@@ -283,7 +283,7 @@
                     <div class="col-lg-2 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="blog-one__single">
                             <div class="blog-one__image">
-                                <img src="assets/images/blog/blog-1-1.jpg" alt="">
+                                <img src="assets/images/woman.png" alt="">
                                 <a class="blog-one__more-link" href="news-details.html"><i class="fa fa-link"></i>
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
