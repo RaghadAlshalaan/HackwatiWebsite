@@ -288,14 +288,7 @@
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
                             <div class="blog-one__content">
-                                <ul class="list-unstyled blog-one__meta">
-                                    <li><a href="#">22 Oct, 2019</a></li>
-                                    <li><a href="#">2 Comments</a></li>
-                                </ul><!-- /.list-unstyled -->
-                                <h3 class="blog-one__title">
-                                    <a href="news-details.html">Pre and post launch mobile app marketing pitfalls to avoid</a>
-                                </h3><!-- /.blog-one__title -->
-                                <a href="news-details.html" class="blog-one__link">Read More</a><!-- /.blog-one__link -->
+                              <h3>name</h3>
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
