@@ -217,10 +217,9 @@ iframe {
   width: 100%;
   height: 100%;
   top: 0;
-  left: 0;
+  right: 0;
   justify-content: flex-end;
   align-items: flex-start;
-
   pointer-events: none;
   direction: rtl;
 
@@ -231,7 +230,7 @@ iframe {
   display: block;
   position: absolute;
   bottom: -2px;
-  left: 0;
+  right: 0;
   width: 0;
   height: 2px;
 
@@ -255,7 +254,7 @@ iframe {
   width: 100%;
   position: relative;
   top: 0px;
-  left: 0;
+  right: 0;
 
   font-family: Poppins-Regular;
   font-size: 13px;
@@ -278,7 +277,7 @@ input.input2 {
 
 input.input2 + .focus-input2::after {
   top: 16px;
-  left: 0;
+  right: 0;
   justify-content: flex-end;
   align-items: flex-end;
 }
@@ -291,7 +290,7 @@ textarea.input2 {
 
 textarea.input2 + .focus-input2::after {
   top: 16px;
-  left: 0;
+  right: 0;
 }
 
 .input2:focus + .focus-input2::after {
