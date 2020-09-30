@@ -24,7 +24,7 @@
 	<div class="bg-contact2">
 		<div class="container-contact2">
 			<div class="wrap-contact2">
-				<form class="contact2-form validate-form">
+				<form class="contact2-form validate-form" style="direction: rtl">
 
 					<div class="wrap-input2 validate-input" data-validate="الاسم">
 						<input class="input2" type="text" name="name">
