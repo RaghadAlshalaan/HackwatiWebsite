@@ -280,7 +280,7 @@
                     <h2 class="block-title__title">المطورين</h2><!-- /.block-title__title -->
                 </div><!-- /.block-title -->
                 <div class="row">
-                    <div class="col-lg-2 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
+                    <div class="col-lg-3 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="blog-one__single">
                             <div class="blog-one__image">
                                 <img src="assets/images/blog/blog-1-1.jpg" alt="">
@@ -292,7 +292,7 @@
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
-                                        <div class="col-lg-4 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
+                    <div class="col-lg-3 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="blog-one__single">
                             <div class="blog-one__image">
                                 <img src="assets/images/blog/blog-1-1.jpg" alt="">
@@ -311,7 +311,7 @@
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
-                                        <div class="col-lg-4 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
+                    <div class="col-lg-3 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="blog-one__single">
                             <div class="blog-one__image">
                                 <img src="assets/images/blog/blog-1-1.jpg" alt="">
@@ -330,7 +330,7 @@
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
-                    <div class="col-lg-4 col-md-12 col-sm-12 wow fadeInDown" data-wow-duration="1500ms">
+                    <div class="col-lg-3 col-md-12 col-sm-12 wow fadeInDown" data-wow-duration="1500ms">
                         <div class="blog-one__single">
                             <div class="blog-one__image">
                                 <img src="assets/images/blog/blog-1-2.jpg" alt="">
@@ -350,7 +350,7 @@
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
-                    <div class="col-lg-4 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
+                    <div class="col-lg-3 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="blog-one__single">
                             <div class="blog-one__image">
                                 <img src="assets/images/blog/blog-1-3.jpg" alt="">
