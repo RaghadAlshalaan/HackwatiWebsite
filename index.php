@@ -644,13 +644,15 @@
         <section class="mailchimp-one">
 
             <div class="container">
-                        <?php require 'ContactFrom_v2/email.php';?>
 
                 <div class="block-title text-center">
                 </div><!-- /.block-title -->
                 
     
-                <div class="mc-form__response"></div><!-- /.mc-form__response -->
+                <div>
+                                        <?php require 'ContactFrom_v2/email.php';?>
+
+                </div><!-- /.mc-form__response -->
             </div><!-- /.container -->
         </section><!-- /.mailchimp-one -->
         <footer class="site-footer">
