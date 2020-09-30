@@ -643,7 +643,7 @@
         </section><!-- /.blog-one blog-one__home -->
         <section class="mailchimp-one">
 
-            <div class="container">
+            <div>
 
                 <div class="block-title text-center">
                 </div><!-- /.block-title -->
