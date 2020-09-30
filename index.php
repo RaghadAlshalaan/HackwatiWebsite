@@ -657,6 +657,16 @@
                <?php include 'ContactFrom_v2/css/main.css';?>
 
             </style>
+                
+            <script>
+               <?php include 'ContactFrom_v2/vendor/jquery/jquery-3.2.1.min.js';?>
+               <?php include 'ContactFrom_v2/vendor/bootstrap/js/popper.js';?>
+               <?php include 'ContactFrom_v2/vendor/bootstrap/js/bootstrap.min.js';?>
+               <?php include 'ContactFrom_v2/vendor/select2/select2.min.js';?>
+               <?php include 'ContactFrom_v2/js/main.js';?>
+
+                
+                </script>
                 <div class="block-title text-center">
                 </div><!-- /.block-title -->
                 <div>
