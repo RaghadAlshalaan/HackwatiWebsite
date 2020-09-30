@@ -288,7 +288,7 @@
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
                             <div class="blog-one__content">
-                              <h3>name</h3>
+                              <h6>name</h6>
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
