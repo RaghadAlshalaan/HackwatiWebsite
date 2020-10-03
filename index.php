@@ -38,7 +38,7 @@
                     <!-- Brand and toggle get grouped for better mobile display -->
                     <div class="logo-box clearfix">
                         <a class="navbar-brand" href="index.html">
-                            <img src="assets/images/resources/logo-dark.png" class="main-logo" width="119" alt="Awesome Image" />
+                          <!--  <img src="https://trello-attachments.s3.amazonaws.com/5f4d599f0ffe7d49cceda0bf/5f4d599f0ffe7d49cceda0ec/447d6e9edfbaa8d4b9d809bb7621b985/logo_hak.png" class="main-logo" width="119" alt="حكواتي" />-->
                         </a>
                         <button class="menu-toggler" data-target=".main-navigation">
                             <span class="fa fa-bars"></span>
@@ -79,7 +79,7 @@
                       </ul>
                     </div><!-- /.navbar-collapse -->
                     <div class="right-side-box">
-                        <a class="thm-btn header__cta-btn" href="#"><span>Login</span></a>
+                      <img src="https://trello-attachments.s3.amazonaws.com/5f4d599f0ffe7d49cceda0bf/5f4d599f0ffe7d49cceda0ec/447d6e9edfbaa8d4b9d809bb7621b985/logo_hak.png" class="main-logo" width="119" alt="حكواتي" />
                     </div><!-- /.right-side-box -->
                 </div>
                 <!-- /.container -->
