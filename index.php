@@ -110,7 +110,7 @@
         <section class="service-one" id="features">
             <div class="container">
                 <div class="block-title text-center">
-                    <h2 class="block-title__title">Checkout  <span>Hakawati</span> <br> Features Below.</h2><!-- /.block-title__title -->
+                    <h2 class="block-title__title"> ألقِ نظرة على    <br> مميزات<span>حكواتي</span> ادناه</h2><!-- /.block-title__title -->
                 </div><!-- /.block-title -->
                 <div class="row">
                     <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
