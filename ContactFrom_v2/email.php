@@ -24,7 +24,7 @@
 	<div class="bg-contact2">
 		<div class="container-contact2">
 			<div class="wrap-contact2">
-				<form class="contact2-form validate-form" style="direction: rtl">
+				<form class="contact2-form validate-form" style="direction: rtl" action="mailto:HakawatiApp1@gmail.com" method="post" enctype="text/plain">
 
 					<div class="wrap-input2 validate-input" data-validate="الاسم">
 						<input class="input2" type="text" name="name">
@@ -54,6 +54,17 @@
 		</div>
 	</div>
 
+    <?php
+$to      = 'HakawatiApp1@gmail.com';
+$subject = 'the subject';
+$message = 'hello';
+$headers = 'From: webmaster@example.com' . "\r\n" .
+    'Reply-To: HakawatiApp1@gmail.com' . "\r\n" .
+    'X-Mailer: PHP/' . phpversion();
+
+mail($to, $subject, $message, $headers);
+?> 
+    
 
 
 

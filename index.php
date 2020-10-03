@@ -29,7 +29,7 @@
 
 <body>
     <div class="preloader">
-        <img src="assets/images/logo.png" class="preloader__image" alt="">
+        <img src="assets/images/logo.png" class="preloader__image" style="width: 200px; length:200px" alt="">
     </div><!-- /.preloader -->
     <div class="page-wrapper">
         <header class="site-header site-header__header-one ">
@@ -115,15 +115,15 @@
         <section class="service-one" id="features">
             <div class="container">
                 <div class="block-title text-center">
-                    <h2 class="block-title__title">Checkout Our <span>Software</span> <br> Features Below.</h2><!-- /.block-title__title -->
+                    <h2 class="block-title__title">Checkout  <span>Hakawati</span> <br> Features Below.</h2><!-- /.block-title__title -->
                 </div><!-- /.block-title -->
                 <div class="row">
                     <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="service-one__single text-center">
                             <div class="service-one__inner">
                                 <i class="service-one__icon dimon-icon-laptop"></i>
-                                <h3><a href="#">Speed <br> Optimization</a></h3>
-                                <p>Lorem ipsum is are <br> many variations of <br> pass of majority.</p>
+                                <h3><a href="#">Interactive </a></h3>
+                                <p>Straight Facts</p>
                                 <a href="#" class="service-one__link"><i class="dimon-icon-right-arrow"></i></a>
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
@@ -132,8 +132,8 @@
                         <div class="service-one__single text-center">
                             <div class="service-one__inner">
                                 <i class="service-one__icon dimon-icon-presentation"></i>
-                                <h3><a href="#">Marketing <br> Analysis</a></h3>
-                                <p>Lorem ipsum is are <br> many variations of <br> pass of majority.</p>
+                                <h3><a href="#">Challenging</a></h3>
+                                <p>Stay in the Loop</p>
                                 <a href="#" class="service-one__link"><i class="dimon-icon-right-arrow"></i></a>
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
@@ -142,8 +142,8 @@
                         <div class="service-one__single text-center">
                             <div class="service-one__inner">
                                 <i class="service-one__icon dimon-icon-target"></i>
-                                <h3><a href="#">SEO and <br> Backlinks</a></h3>
-                                <p>Lorem ipsum is are <br> many variations of <br> pass of majority.</p>
+                                <h3><a href="#">Educational</a></h3>
+                                <p>Where it Begins</p>
                                 <a href="#" class="service-one__link"><i class="dimon-icon-right-arrow"></i></a>
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
@@ -152,12 +152,12 @@
                         <div class="service-one__single text-center">
                             <div class="service-one__inner">
                                 <i class="service-one__icon dimon-icon-visualization"></i>
-                                <h3><a href="#">Content <br> Marketing</a></h3>
-                                <p>Lorem ipsum is are <br> many variations of <br> pass of majority.</p>
+                                <h3><a href="#"> Arabic audiobook </a></h3>
+                                <!-- <p>Lorem ipsum is are <br> many variations of <br> pass of majority.</p> -->
                                 <a href="#" class="service-one__link"><i class="dimon-icon-right-arrow"></i></a>
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
-                    </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
+                    </div><!--/.col-lg-3 col-md-6 col-sm-12 --> 
                 </div><!-- /.row -->
             </div><!-- /.container -->
         </section><!-- /.service-one -->
@@ -280,11 +280,12 @@
                     <h2 class="block-title__title">المطورين</h2><!-- /.block-title__title -->
                 </div><!-- /.block-title -->
                 <div class="row justify-content-md-center">
-                    <div class="col-lg-2 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
+                    <div class="col-lg-4 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="blog-one__single">
                             <div class="blog-one__image">
                                 <img src="assets/images/woman.png" alt="">
-                                <a class="blog-one__more-link" href="news-details.html"><i class="fa fa-link"></i>
+                                <a class="blog-one__more-link" href="https://www.linkedin.com/in/raghad-alshaalan-a64689178"><i class="fa fa-linkedin" aria-hidden="true"></i>
+
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
                             <div class="blog-one__content">
@@ -292,11 +293,13 @@
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
-                    <div class="col-lg-2 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
+                    <div class="col-lg-4 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="blog-one__single">
                             <div class="blog-one__image">
-                                <img src="assets/images/blog/blog-1-1.jpg" alt="">
-                                <a class="blog-one__more-link" href="news-details.html"><i class="fa fa-link"></i>
+
+                                <img src="assets/images/woman.png" alt="">
+                                <a class="blog-one__more-link" href="http://linkedin.com/in/asma-aljudaya-312b8a1aa"><i class="fa fa-linkedin" aria-hidden="true"></i>
+
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
                             <div class="blog-one__content">
@@ -304,11 +307,12 @@
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
-                    <div class="col-lg-2 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
+                    <div class="col-lg-4 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="blog-one__single">
                             <div class="blog-one__image">
-                                <img src="assets/images/blog/blog-1-1.jpg" alt="">
-                                <a class="blog-one__more-link" href="news-details.html"><i class="fa fa-link"></i>
+                                <img src="assets/images/woman.png" alt="">
+                                <a class="blog-one__more-link" href="http://linkedin.com/in/ghedaa-alajaji-86ab39192"><i class="fa fa-linkedin" aria-hidden="true"></i>
+
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
                             <div class="blog-one__content">
@@ -316,11 +320,13 @@
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
-                    <div class="col-lg-2 col-md-12 col-sm-12 wow fadeInDown" data-wow-duration="1500ms">
+                    <div class="col-lg-4 col-md-12 col-sm-12 wow fadeInDown" data-wow-duration="1500ms">
                         <div class="blog-one__single">
                             <div class="blog-one__image">
-                                <img src="assets/images/blog/blog-1-2.jpg" alt="">
-                                <a class="blog-one__more-link" href="news-details.html"><i class="fa fa-link"></i>
+
+                                <img src="assets/images/woman.png" alt="">
+                                <a class="blog-one__more-link" href="http://www.linkedin.com/in/shaden-alromi"><i class="fa fa-linkedin" aria-hidden="true"></i>
+
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
                             <div class="blog-one__content">
@@ -328,11 +334,13 @@
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
-                    <div class="col-lg-2 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
+                    <div class="col-lg-4 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="blog-one__single">
                             <div class="blog-one__image">
-                                <img src="assets/images/blog/blog-1-3.jpg" alt="">
-                                <a class="blog-one__more-link" href="news-details.html"><i class="fa fa-link"></i>
+
+                                <img src="assets/images/woman.png" alt="">
+                                <a class="blog-one__more-link" href="https://www.linkedin.com/in/fatimah-alqahtani-36150b178"><i class="fa fa-linkedin" aria-hidden="true"></i>
+
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
                             <div class="blog-one__content">
@@ -361,7 +369,7 @@
                <?php include 'ContactFrom_v2/css/main.css';?>
 
             </style>
-                
+
             <script>
                <?php include 'ContactFrom_v2/vendor/jquery/jquery-3.2.1.min.js';?>
                <?php include 'ContactFrom_v2/vendor/bootstrap/js/popper.js';?>
@@ -369,9 +377,9 @@
                <?php include 'ContactFrom_v2/vendor/select2/select2.min.js';?>
                <?php include 'ContactFrom_v2/js/main.js';?>
 
-                
+
                 </script>
-              
+
                 <div>
                 </div><!-- /.mc-form__response -->
             </div><!-- /.container -->
