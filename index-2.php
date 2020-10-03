@@ -122,15 +122,15 @@
         <section class="service-one" id="features">
             <div class="container">
                 <div class="block-title text-center">
-                    <h2 class="block-title__title">Checkout Our <span>Software</span> <br> Features Below.</h2><!-- /.block-title__title -->
+                    <h2 class="block-title__title">Checkout <span>Hakawati</span> <br> Features Below.</h2><!-- /.block-title__title -->
                 </div><!-- /.block-title -->
                 <div class="row">
                     <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="service-one__single text-center">
                             <div class="service-one__inner">
                                 <i class="service-one__icon dimon-icon-laptop"></i>
-                                <h3><a href="#">Speed <br> Optimization</a></h3>
-                                <p>Lorem ipsum is are <br> many variations of <br> pass of majority.</p>
+                                <h3><a href="#">Interactive </a></h3>
+                                <p>Straight Facts</p>
                                 <a href="#" class="service-one__link"><i class="dimon-icon-right-arrow"></i></a>
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
@@ -139,18 +139,19 @@
                         <div class="service-one__single text-center">
                             <div class="service-one__inner">
                                 <i class="service-one__icon dimon-icon-presentation"></i>
-                                <h3><a href="#">Marketing <br> Analysis</a></h3>
-                                <p>Lorem ipsum is are <br> many variations of <br> pass of majority.</p>
+                                <h3><a href="#">Challenging</a></h3>
+                                <p>Stay in the Loop</p>
                                 <a href="#" class="service-one__link"><i class="dimon-icon-right-arrow"></i></a>
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
                     </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
+
                     <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="service-one__single text-center">
                             <div class="service-one__inner">
                                 <i class="service-one__icon dimon-icon-target"></i>
-                                <h3><a href="#">SEO and <br> Backlinks</a></h3>
-                                <p>Lorem ipsum is are <br> many variations of <br> pass of majority.</p>
+                                <h3><a href="#">Educational</a></h3>
+                                <p>Where it Begins</p>
                                 <a href="#" class="service-one__link"><i class="dimon-icon-right-arrow"></i></a>
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
@@ -159,12 +160,12 @@
                         <div class="service-one__single text-center">
                             <div class="service-one__inner">
                                 <i class="service-one__icon dimon-icon-visualization"></i>
-                                <h3><a href="#">Content <br> Marketing</a></h3>
-                                <p>Lorem ipsum is are <br> many variations of <br> pass of majority.</p>
+                                <h3><a href="#"> Arabic audiobook </a></h3>
+                                <!-- <p>Lorem ipsum is are <br> many variations of <br> pass of majority.</p> -->
                                 <a href="#" class="service-one__link"><i class="dimon-icon-right-arrow"></i></a>
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
-                    </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
+                    </div><!--/.col-lg-3 col-md-6 col-sm-12 -->
                 </div><!-- /.row -->
             </div><!-- /.container -->
         </section><!-- /.service-one -->
@@ -190,17 +191,17 @@
                         <div class="cta-one__content">
                             <i class="cta-one__icon dimon-icon-data1"></i>
                             <div class="block-title text-left">
-                                <h2 class="block-title__title">Powerful <span>Tools</span> for Your Customers.</h2><!-- /.block-title__title -->
+                                <h2 class="block-title__title">استمع بلا حدود بتصنيفات متعددة تناسب أذواق الجميع</h2><!-- /.block-title__title -->
                             </div><!-- /.block-title -->
                             <div class="cta-one__text">
-                                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                                <p>مع Hakwati اقضِ أمتع الأوقات بصحبة الكتب المسموعة التي تحب واستمتع بتجربة فريدة ومميزة بفضل الخصائص التي يوفرها التطبيق وأهمها:</p>
                             </div><!-- /.cta-one__text -->
                             <ul class="list-unstyled">
-                                <li><i class="fa fa-check"></i>Refresing to get such a personal touch.</li>
-                                <li><i class="fa fa-check"></i>Duis aute irure dolor in reprehenderit in voluptate.</li>
-                                <li><i class="fa fa-check"></i>Velit esse cillum dolore eu fugiat nulla pariatur.</li>
+                                <li><i class="fa fa-check"></i> زيادة أو تقليل السرعة وانت تستمع لأي كتاب صوتي لتحظى بتجربة ممتعة تناسبك</li>
+                                <li><i class="fa fa-check"></i>إمكانية مشاركة الكتب المقترحة وأفضل الكتب الصوتية مع الأصدقاء</li>
+                                <li><i class="fa fa-check"></i>حفظ الكتب المترقب صدورها في رف الكتب وتلقي الإشعارات فور توفر أي كتاب لتبقى على اطّلاع بأحدث الإصدارات</li>
                             </ul><!-- /.list-unstyled -->
-                            <a href="#" class="thm-btn"><span>Get Started</span></a>
+                            <a href="#" class="thm-btn"><span>ابدأ الآن</span></a>
                         </div><!-- /.cta-one__content -->
                     </div><!-- /.col-lg-6 -->
                 </div><!-- /.row -->

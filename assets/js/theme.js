@@ -317,10 +317,10 @@
                 dots: false,
                 autoWidth: false,
                 autoplay: true,
-                smartSpeed: 700,
+                smartSpeed: 100,
                 autoplayTimeout: 5000,
                 autoplayHoverPause: true,
-                slideBy: 5,
+                slideBy: 1,
                 responsive: {
                     0: {
                         items: 1

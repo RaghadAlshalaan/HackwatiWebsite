@@ -29,7 +29,7 @@
 
 <body>
     <div class="preloader">
-        <img src="assets/images/logo.png" class="preloader__image" alt="">
+        <img src="assets/images/logo.png" class="preloader__image" style="width: 200px; length:200px" alt="">
     </div><!-- /.preloader -->
     <div class="page-wrapper">
         <header class="site-header site-header__header-one ">
@@ -38,7 +38,7 @@
                     <!-- Brand and toggle get grouped for better mobile display -->
                     <div class="logo-box clearfix">
                         <a class="navbar-brand" href="index.html">
-                            <img src="assets/images/resources/logo-dark.png" class="main-logo" width="119" alt="Awesome Image" />
+                          <!--  <img src="https://trello-attachments.s3.amazonaws.com/5f4d599f0ffe7d49cceda0bf/5f4d599f0ffe7d49cceda0ec/447d6e9edfbaa8d4b9d809bb7621b985/logo_hak.png" class="main-logo" width="119" alt="حكواتي" />-->
                         </a>
                         <button class="menu-toggler" data-target=".main-navigation">
                             <span class="fa fa-bars"></span>
@@ -84,7 +84,7 @@
                         </ul>
                     </div><!-- /.navbar-collapse -->
                     <div class="right-side-box">
-                        <a class="thm-btn header__cta-btn" href="#"><span>Login</span></a>
+                      <img src="https://trello-attachments.s3.amazonaws.com/5f4d599f0ffe7d49cceda0bf/5f4d599f0ffe7d49cceda0ec/447d6e9edfbaa8d4b9d809bb7621b985/logo_hak.png" class="main-logo" width="119" alt="حكواتي" />
                     </div><!-- /.right-side-box -->
                 </div>
                 <!-- /.container -->
@@ -115,15 +115,15 @@
         <section class="service-one" id="features">
             <div class="container">
                 <div class="block-title text-center">
-                    <h2 class="block-title__title">Checkout Our <span>Software</span> <br> Features Below.</h2><!-- /.block-title__title -->
+                    <h2 class="block-title__title">Checkout  <span>Hakawati</span> <br> Features Below.</h2><!-- /.block-title__title -->
                 </div><!-- /.block-title -->
                 <div class="row">
                     <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="service-one__single text-center">
                             <div class="service-one__inner">
                                 <i class="service-one__icon dimon-icon-laptop"></i>
-                                <h3><a href="#">Speed <br> Optimization</a></h3>
-                                <p>Lorem ipsum is are <br> many variations of <br> pass of majority.</p>
+                                <h3><a href="#">Interactive </a></h3>
+                                <p>Straight Facts</p>
                                 <a href="#" class="service-one__link"><i class="dimon-icon-right-arrow"></i></a>
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
@@ -132,8 +132,8 @@
                         <div class="service-one__single text-center">
                             <div class="service-one__inner">
                                 <i class="service-one__icon dimon-icon-presentation"></i>
-                                <h3><a href="#">Marketing <br> Analysis</a></h3>
-                                <p>Lorem ipsum is are <br> many variations of <br> pass of majority.</p>
+                                <h3><a href="#">Challenging</a></h3>
+                                <p>Stay in the Loop</p>
                                 <a href="#" class="service-one__link"><i class="dimon-icon-right-arrow"></i></a>
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
@@ -142,8 +142,8 @@
                         <div class="service-one__single text-center">
                             <div class="service-one__inner">
                                 <i class="service-one__icon dimon-icon-target"></i>
-                                <h3><a href="#">SEO and <br> Backlinks</a></h3>
-                                <p>Lorem ipsum is are <br> many variations of <br> pass of majority.</p>
+                                <h3><a href="#">Educational</a></h3>
+                                <p>Where it Begins</p>
                                 <a href="#" class="service-one__link"><i class="dimon-icon-right-arrow"></i></a>
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
@@ -152,12 +152,12 @@
                         <div class="service-one__single text-center">
                             <div class="service-one__inner">
                                 <i class="service-one__icon dimon-icon-visualization"></i>
-                                <h3><a href="#">Content <br> Marketing</a></h3>
-                                <p>Lorem ipsum is are <br> many variations of <br> pass of majority.</p>
+                                <h3><a href="#"> Arabic audiobook </a></h3>
+                                <!-- <p>Lorem ipsum is are <br> many variations of <br> pass of majority.</p> -->
                                 <a href="#" class="service-one__link"><i class="dimon-icon-right-arrow"></i></a>
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
-                    </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
+                    </div><!--/.col-lg-3 col-md-6 col-sm-12 -->
                 </div><!-- /.row -->
             </div><!-- /.container -->
         </section><!-- /.service-one -->
@@ -183,17 +183,17 @@
                         <div class="cta-one__content">
                             <i class="cta-one__icon dimon-icon-data1"></i>
                             <div class="block-title text-left">
-                                <h2 class="block-title__title">Powerful <span>Tools</span> for Your Customers.</h2><!-- /.block-title__title -->
-                            </div><!-- /.block-title -->
-                            <div class="cta-one__text">
-                                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-                            </div><!-- /.cta-one__text -->
-                            <ul class="list-unstyled">
-                                <li><i class="fa fa-check"></i>Refresing to get such a personal touch.</li>
-                                <li><i class="fa fa-check"></i>Duis aute irure dolor in reprehenderit in voluptate.</li>
-                                <li><i class="fa fa-check"></i>Velit esse cillum dolore eu fugiat nulla pariatur.</li>
-                            </ul><!-- /.list-unstyled -->
-                            <a href="#" class="thm-btn"><span>Get Started</span></a>
+                              <h2 class="block-title__title">استمع بلا حدود بتصنيفات متعددة تناسب أذواق الجميع</h2><!-- /.block-title__title -->
+                          </div><!-- /.block-title -->
+                          <div class="cta-one__text">
+                              <p>مع حكوات اقضِ أمتع الأوقات بصحبة الكتب المسموعة التي تحب واستمتع بتجربة فريدة ومميزة بفضل الخصائص التي يوفرها التطبيق وأهمها:</p>
+                          </div><!-- /.cta-one__text -->
+                          <ul class="list-unstyled">
+                              <li><i class="fa fa-check"></i> زيادة أو تقليل السرعة وانت تستمع لأي كتاب صوتي لتحظى بتجربة ممتعة تناسبك</li>
+                              <li><i class="fa fa-check"></i>إمكانية مشاركة الكتب المقترحة وأفضل الكتب الصوتية مع الأصدقاء</li>
+                              <li><i class="fa fa-check"></i>حفظ الكتب المترقب صدورها في رف الكتب وتلقي الإشعارات فور توفر أي كتاب لتبقى على اطّلاع بأحدث الإصدارات</li>
+                          </ul><!-- /.list-unstyled -->
+                          <a href="#" class="thm-btn"><span>ابدأ الآن</span></a>
                         </div><!-- /.cta-one__content -->
                     </div><!-- /.col-lg-6 -->
                 </div><!-- /.row -->
@@ -227,49 +227,25 @@
                 </div><!-- /.block-title -->
                 <div class="app-shot-one__carousel owl-theme owl-carousel">
                     <div class="item">
-                        <img src="assets/images/app-shots/app-shot-1-1.jpg" alt="">
+                        <img src="assets/images/app-shots/register.png" alt="">
                     </div><!-- /.item -->
                     <div class="item">
-                        <img src="assets/images/app-shots/app-shot-1-2.jpg" alt="">
+                        <img src="assets/images/app-shots/main.png" alt="">
                     </div><!-- /.item -->
                     <div class="item">
-                        <img src="assets/images/app-shots/app-shot-1-3.jpg" alt="">
+                        <img src="assets/images/app-shots/explore.png" alt="">
                     </div><!-- /.item -->
                     <div class="item">
-                        <img src="assets/images/app-shots/app-shot-1-4.jpg" alt="">
+                        <img src="assets/images/app-shots/search.png" alt="">
                     </div><!-- /.item -->
                     <div class="item">
-                        <img src="assets/images/app-shots/app-shot-1-5.jpg" alt="">
+                        <img src="assets/images/app-shots/upload-story.png" alt="">
                     </div><!-- /.item -->
                     <div class="item">
-                        <img src="assets/images/app-shots/app-shot-1-1.jpg" alt="">
+                        <img src="assets/images/app-shots/record.png" alt="">
                     </div><!-- /.item -->
                     <div class="item">
-                        <img src="assets/images/app-shots/app-shot-1-2.jpg" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/app-shots/app-shot-1-3.jpg" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/app-shots/app-shot-1-4.jpg" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/app-shots/app-shot-1-5.jpg" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/app-shots/app-shot-1-1.jpg" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/app-shots/app-shot-1-2.jpg" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/app-shots/app-shot-1-3.jpg" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/app-shots/app-shot-1-4.jpg" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/app-shots/app-shot-1-5.jpg" alt="">
+                        <img src="assets/images/app-shots/profile.png" alt="">
                     </div><!-- /.item -->
                 </div><!-- /.app-shot-one__carousel owl-theme owl-carousel -->
             </div><!-- /.container-fluid -->
@@ -280,11 +256,12 @@
                     <h2 class="block-title__title">المطورين</h2><!-- /.block-title__title -->
                 </div><!-- /.block-title -->
                 <div class="row justify-content-md-center">
-                    <div class="col-lg-2 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
+                    <div class="col-lg-4 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="blog-one__single">
                             <div class="blog-one__image">
                                 <img src="assets/images/woman.png" alt="">
-                                <a class="blog-one__more-link" href="news-details.html"><i class="fa fa-link"></i>
+                                <a class="blog-one__more-link" href="https://www.linkedin.com/in/raghad-alshaalan-a64689178"><i class="fa fa-linkedin" aria-hidden="true"></i>
+
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
                             <div class="blog-one__content">
@@ -292,11 +269,13 @@
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
-                    <div class="col-lg-2 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
+                    <div class="col-lg-4 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="blog-one__single">
                             <div class="blog-one__image">
-                                <img src="assets/images/blog/blog-1-1.jpg" alt="">
-                                <a class="blog-one__more-link" href="news-details.html"><i class="fa fa-link"></i>
+
+                                <img src="assets/images/woman.png" alt="">
+                                <a class="blog-one__more-link" href="http://linkedin.com/in/asma-aljudaya-312b8a1aa"><i class="fa fa-linkedin" aria-hidden="true"></i>
+
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
                             <div class="blog-one__content">
@@ -304,11 +283,12 @@
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
-                    <div class="col-lg-2 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
+                    <div class="col-lg-4 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="blog-one__single">
                             <div class="blog-one__image">
-                                <img src="assets/images/blog/blog-1-1.jpg" alt="">
-                                <a class="blog-one__more-link" href="news-details.html"><i class="fa fa-link"></i>
+                                <img src="assets/images/woman.png" alt="">
+                                <a class="blog-one__more-link" href="http://linkedin.com/in/ghedaa-alajaji-86ab39192"><i class="fa fa-linkedin" aria-hidden="true"></i>
+
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
                             <div class="blog-one__content">
@@ -316,11 +296,13 @@
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
-                    <div class="col-lg-2 col-md-12 col-sm-12 wow fadeInDown" data-wow-duration="1500ms">
+                    <div class="col-lg-4 col-md-12 col-sm-12 wow fadeInDown" data-wow-duration="1500ms">
                         <div class="blog-one__single">
                             <div class="blog-one__image">
-                                <img src="assets/images/blog/blog-1-2.jpg" alt="">
-                                <a class="blog-one__more-link" href="news-details.html"><i class="fa fa-link"></i>
+
+                                <img src="assets/images/woman.png" alt="">
+                                <a class="blog-one__more-link" href="http://www.linkedin.com/in/shaden-alromi"><i class="fa fa-linkedin" aria-hidden="true"></i>
+
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
                             <div class="blog-one__content">
@@ -328,11 +310,13 @@
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
-                    <div class="col-lg-2 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
+                    <div class="col-lg-4 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="blog-one__single">
                             <div class="blog-one__image">
-                                <img src="assets/images/blog/blog-1-3.jpg" alt="">
-                                <a class="blog-one__more-link" href="news-details.html"><i class="fa fa-link"></i>
+
+                                <img src="assets/images/woman.png" alt="">
+                                <a class="blog-one__more-link" href="https://www.linkedin.com/in/fatimah-alqahtani-36150b178"><i class="fa fa-linkedin" aria-hidden="true"></i>
+
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
                             <div class="blog-one__content">
@@ -361,7 +345,7 @@
                <?php include 'ContactFrom_v2/css/main.css';?>
 
             </style>
-                
+
             <script>
                <?php include 'ContactFrom_v2/vendor/jquery/jquery-3.2.1.min.js';?>
                <?php include 'ContactFrom_v2/vendor/bootstrap/js/popper.js';?>
@@ -369,9 +353,9 @@
                <?php include 'ContactFrom_v2/vendor/select2/select2.min.js';?>
                <?php include 'ContactFrom_v2/js/main.js';?>
 
-                
+
                 </script>
-              
+
                 <div>
                 </div><!-- /.mc-form__response -->
             </div><!-- /.container -->
