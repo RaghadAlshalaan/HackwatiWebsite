@@ -48,7 +48,7 @@
                     <div class="main-navigation">
                       <ul class=" one-page-scroll-menu navigation-box">
                           <li class="current scrollToLink">
-                              <a href="banner">تواصل معنا</a>
+                              <a href="mailchimp-one">تواصل معنا</a>
                             <!---->  <ul class="sub-menu">
 
                               </ul><!-- /.sub-menu -->
