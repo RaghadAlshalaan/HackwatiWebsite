@@ -38,7 +38,7 @@
                     <!-- Brand and toggle get grouped for better mobile display -->
                     <div class="logo-box clearfix">
                         <a class="navbar-brand" href="index.html">
-                          <!--  <img src="https://trello-attachments.s3.amazonaws.com/5f4d599f0ffe7d49cceda0bf/5f4d599f0ffe7d49cceda0ec/447d6e9edfbaa8d4b9d809bb7621b985/logo_hak.png" class="main-logo" width="119" alt="حكواتي" />-->
+                            <img src="assets/images/resources/logo-dark.png" class="main-logo" width="119" alt="Awesome Image" />
                         </a>
                         <button class="menu-toggler" data-target=".main-navigation">
                             <span class="fa fa-bars"></span>
@@ -46,40 +46,45 @@
                     </div><!-- /.logo-box -->
                     <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="main-navigation">
-                      <ul class=" one-page-scroll-menu navigation-box">
-                          <li class="current scrollToLink">
-                              <a href="index.html#banner">تواصل معنا</a>
-                            <!---->  <ul class="sub-menu">
+                        <ul class=" one-page-scroll-menu navigation-box">
+                            <li class="current scrollToLink">
+                                <a href="#banner">Home</a>
+                                <ul class="sub-menu">
+                                    <li><a href="index.html">Home 01</a></li>
+                                    <li><a href="index-2.html">Home 02</a></li>
+                                    <li><a href="#">Header Versions</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="index.html">Header 01</a></li>
+                                            <li><a href="index-2.html">Header 02</a></li>
+                                        </ul><!-- /.sub-menu -->
+                                    </li>
+                                </ul><!-- /.sub-menu -->
+                            </li>
+                            <li class="scrollToLink">
+                                <a href="#features">Features</a>
 
-                              </ul><!-- /.sub-menu -->
-                          </li>
-                          <li class="scrollToLink">
-                              <a href="index.html#video">المطورين</a>
+                            </li>
+                            <li class="scrollToLink">
+                                <a href="#video">Video</a>
 
-                          </li>
-                          <li class="scrollToLink">
-                            <a href="index.html#pricing">حول</a>
-
-                          </li>
-                          <li class="scrollToLink">
-                            <a href="index.html#screenshots">التطبيق</a>
-
-                          </li>
-                          <li class="scrollToLink">
-                              <a href="index.html#features">المميزات</a>
-
-                          </li>
-                      <!--    <li class="scrollToLink">
-                              <a href="index.html#news">News</a>
-                              <ul class="sub-menu">
-                                  <li><a href="news.html">News Page</a></li>
-                                  <li><a href="news-details.html">News Details</a></li>
-                              </ul><!-- /.sub-menu -->
-                          </li>
-                      </ul>
+                            </li>
+                            <li class="scrollToLink">
+                                <a href="#pricing">Pricing</a>
+                            </li>
+                            <li class="scrollToLink">
+                                <a href="#screenshots">App Screenshots</a>
+                            </li>
+                            <li class="scrollToLink">
+                                <a href="#news">News</a>
+                                <ul class="sub-menu">
+                                    <li><a href="news.html">News Page</a></li>
+                                    <li><a href="news-details.html">News Details</a></li>
+                                </ul><!-- /.sub-menu -->
+                            </li>
+                        </ul>
                     </div><!-- /.navbar-collapse -->
                     <div class="right-side-box">
-                      <img src="https://trello-attachments.s3.amazonaws.com/5f4d599f0ffe7d49cceda0bf/5f4d599f0ffe7d49cceda0ec/447d6e9edfbaa8d4b9d809bb7621b985/logo_hak.png" class="main-logo" width="119" alt="حكواتي" />
+                        <a class="thm-btn header__cta-btn" href="#"><span>Login</span></a>
                     </div><!-- /.right-side-box -->
                 </div>
                 <!-- /.container -->
@@ -172,7 +177,7 @@
         <section class="cta-one">
             <img src="assets/images/background/cta-one-bg.png" class="cta-one__bg" alt="Awesome Image" />
             <div class="container">
-                <img src="assets/images/mocs/backgroundApp.jpg" class="cta-one__moc" alt="Awesome Image" />
+                <img src="assets/images/mocs/cta-moc-1-1.png" class="cta-one__moc" alt="Awesome Image" />
                 <div class="row justify-content-lg-end">
                     <div class="col-lg-6">
                         <div class="cta-one__content">
