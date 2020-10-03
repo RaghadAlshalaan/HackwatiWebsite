@@ -217,7 +217,7 @@
         </section><!-- /.cta-two --> -->
 
         <section class="app-shot-one" id="screenshots">
-            <img src="assets/images/background/app-shot-bg.png" alt="Awesome Image" class="app-shot-one__bg" />
+            <!-- <img src="assets/images/background/app-shot-bg.png" alt="Awesome Image" class="app-shot-one__bg" /> -->
             <div class="container-fluid">
                 <div class="block-title text-center">
                     <h2 class="block-title__title">Checkout Our App <br> <span>Interface</span> Screenshots.</h2><!-- /.block-title__title -->
