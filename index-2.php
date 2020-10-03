@@ -201,7 +201,7 @@
                                 <li><i class="fa fa-check"></i>إمكانية مشاركة الكتب المقترحة وأفضل الكتب الصوتية مع الأصدقاء</li>
                                 <li><i class="fa fa-check"></i>حفظ الكتب المترقب صدورها في رف الكتب وتلقي الإشعارات فور توفر أي كتاب لتبقى على اطّلاع بأحدث الإصدارات</li>
                             </ul><!-- /.list-unstyled -->
-                            <a href="#" class="thm-btn"><span>Get Started</span></a>
+                            <a href="#" class="thm-btn"><span>ابدأ الآن</span></a>
                         </div><!-- /.cta-one__content -->
                     </div><!-- /.col-lg-6 -->
                 </div><!-- /.row -->
