@@ -48,25 +48,25 @@
                     <div class="main-navigation">
                       <ul class=" one-page-scroll-menu navigation-box">
                           <li class="current scrollToLink">
-                              <a href="index.html#banner">تواصل معنا</a>
+                              <a href="banner">تواصل معنا</a>
                             <!---->  <ul class="sub-menu">
 
                               </ul><!-- /.sub-menu -->
                           </li>
                           <li class="scrollToLink">
-                              <a href="index.html#video">المطورين</a>
+                              <a href="#developers">المطورين</a>
 
                           </li>
                           <li class="scrollToLink">
-                            <a href="index.html#pricing">حول</a>
+                            <a href="#pricing">حول</a>
 
                           </li>
                           <li class="scrollToLink">
-                            <a href="index.html#screenshots">التطبيق</a>
+                            <a href="#screenshots">التطبيق</a>
 
                           </li>
                           <li class="scrollToLink">
-                              <a href="index.html#features">المميزات</a>
+                              <a href="#features">المميزات</a>
 
                           </li>
                       <!--    <li class="scrollToLink">
@@ -269,7 +269,7 @@
                 </div><!-- /.app-shot-one__carousel owl-theme owl-carousel -->
             </div><!-- /.container-fluid -->
         </section><!-- /.app-shot-one -->
-        <section class="blog-one blog-one__home thm-gray-bg" id="news">
+        <section class="blog-one blog-one__home thm-gray-bg" id="developers">
             <div class="container">
                 <div class="block-title text-center">
                     <h2 class="block-title__title">المطورين</h2><!-- /.block-title__title -->
