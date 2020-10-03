@@ -115,7 +115,7 @@
         <section class="service-one" id="features">
             <div class="container">
                 <div class="block-title text-center">
-                    <h2 class="block-title__title">Checkout  <span>hakawati</span> <br> Features Below.</h2><!-- /.block-title__title -->
+                    <h2 class="block-title__title">Checkout  <span>Hakawati</span> <br> Features Below.</h2><!-- /.block-title__title -->
                 </div><!-- /.block-title -->
                 <div class="row">
                     <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
@@ -142,22 +142,22 @@
                         <div class="service-one__single text-center">
                             <div class="service-one__inner">
                                 <i class="service-one__icon dimon-icon-target"></i>
-                                <h3><a href="#">Edicational</a></h3>
+                                <h3><a href="#">Educational</a></h3>
                                 <p>Where it Begins</p>
                                 <a href="#" class="service-one__link"><i class="dimon-icon-right-arrow"></i></a>
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
                     </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
-                    <!-- <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInDown" data-wow-duration="1500ms">
+                    <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInDown" data-wow-duration="1500ms">
                         <div class="service-one__single text-center">
                             <div class="service-one__inner">
                                 <i class="service-one__icon dimon-icon-visualization"></i>
-                                <h3><a href="#">Content <br> Marketing</a></h3>
-                                <p>Lorem ipsum is are <br> many variations of <br> pass of majority.</p>
+                                <h3><a href="#"> Arabic audiobook </a></h3>
+                                <!-- <p>Lorem ipsum is are <br> many variations of <br> pass of majority.</p> -->
                                 <a href="#" class="service-one__link"><i class="dimon-icon-right-arrow"></i></a>
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
-                    </div><!-- /.col-lg-3 col-md-6 col-sm-12 --> -->
+                    </div>/.col-lg-3 col-md-6 col-sm-12 --> -->
                 </div><!-- /.row -->
             </div><!-- /.container -->
         </section><!-- /.service-one -->
