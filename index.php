@@ -157,7 +157,7 @@
             </div><!-- /.container -->
         </section><!-- /.service-one -->
         <section class="video-one" id="video">
-            <!-- <img src="assets/images/background/video-one-bg.png" alt="Awesome Image" class="video-one__bg" /> -->
+            <img src="assets/images/background/video-one-bg.png" alt="Awesome Image" class="video-one__bg" />
             <div class="container wow fadeInUp" data-wow-duration="1500ms">
                 <div class="video-one__box ">
                     <img src="assets/images/resources/video-1-1.jpg" alt="">
@@ -207,14 +207,14 @@
                             <!-- <div class="cta-two__text">
                                 <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem Ipsum is simply dummy text of the printing laborum perspiciatis unde.</p>
                                 <p>Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit lorem ipsum anim id est.</p>
-                            </div><!-- /.cta-two__text --> -->
+                            </div><!-- /.cta-two__text --> 
                             <a href="#" class="thm-
-                            btn"><span>Get Started</span></a>
+                            <!-- btn"><span>Get Started</span></a>
                         </div><!-- /.cta-two__content -->
                     </div><!-- /.col-lg-6 -->
                 </div><!-- /.row -->
             </div><!-- /.container -->
-        </section><!-- /.cta-two --> -->
+        </section><!-- /.cta-two -->
 
         <section class="app-shot-one" id="screenshots">
             <!-- <img src="assets/images/background/app-shot-bg.png" alt="Awesome Image" class="app-shot-one__bg" /> -->
