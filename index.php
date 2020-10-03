@@ -348,7 +348,7 @@
         </section><!-- /.blog-one blog-one__home -->
 
 
-        <section class="mailchimp-one">
+        <section class="mailchimp-one" id="mailchimp-one">
               <div class="block-title text-center"> <h1>تواصل معنا</h1>
                 </div><!-- /.block-title -->
 
