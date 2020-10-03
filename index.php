@@ -194,7 +194,7 @@
                 </div><!-- /.row -->
             </div><!-- /.container -->
         </section><!-- /.cta-one -->
-        <section class="cta-two">
+        <!-- <section class="cta-two">
             <div class="container">
                 <img src="assets/images/mocs/cta-moc-2-1.png" class="cta-two__moc" alt="Awesome Image" />
                 <div class="row">
@@ -213,7 +213,8 @@
                     </div><!-- /.col-lg-6 -->
                 </div><!-- /.row -->
             </div><!-- /.container -->
-        </section><!-- /.cta-two -->
+        </section><!-- /.cta-two --> -->
+        
         <section class="app-shot-one" id="screenshots">
             <img src="assets/images/background/app-shot-bg.png" alt="Awesome Image" class="app-shot-one__bg" />
             <div class="container-fluid">
