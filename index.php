@@ -115,15 +115,15 @@
         <section class="service-one" id="features">
             <div class="container">
                 <div class="block-title text-center">
-                    <h2 class="block-title__title">Checkout Our <span>Software</span> <br> Features Below.</h2><!-- /.block-title__title -->
+                    <h2 class="block-title__title">Checkout  <span>hakawati</span> <br> Features Below.</h2><!-- /.block-title__title -->
                 </div><!-- /.block-title -->
                 <div class="row">
                     <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="service-one__single text-center">
                             <div class="service-one__inner">
                                 <i class="service-one__icon dimon-icon-laptop"></i>
-                                <h3><a href="#">Speed <br> Optimization</a></h3>
-                                <p>Lorem ipsum is are <br> many variations of <br> pass of majority.</p>
+                                <h3><a href="#">Interactive </a></h3>
+                                <p>Straight Facts</p>
                                 <a href="#" class="service-one__link"><i class="dimon-icon-right-arrow"></i></a>
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
@@ -132,8 +132,8 @@
                         <div class="service-one__single text-center">
                             <div class="service-one__inner">
                                 <i class="service-one__icon dimon-icon-presentation"></i>
-                                <h3><a href="#">Marketing <br> Analysis</a></h3>
-                                <p>Lorem ipsum is are <br> many variations of <br> pass of majority.</p>
+                                <h3><a href="#">Challenging</a></h3>
+                                <p>Stay in the Loop</p>
                                 <a href="#" class="service-one__link"><i class="dimon-icon-right-arrow"></i></a>
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
@@ -142,13 +142,13 @@
                         <div class="service-one__single text-center">
                             <div class="service-one__inner">
                                 <i class="service-one__icon dimon-icon-target"></i>
-                                <h3><a href="#">SEO and <br> Backlinks</a></h3>
-                                <p>Lorem ipsum is are <br> many variations of <br> pass of majority.</p>
+                                <h3><a href="#">Edicational</a></h3>
+                                <p>Where it Begins</p>
                                 <a href="#" class="service-one__link"><i class="dimon-icon-right-arrow"></i></a>
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
                     </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
-                    <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInDown" data-wow-duration="1500ms">
+                    <!-- <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInDown" data-wow-duration="1500ms">
                         <div class="service-one__single text-center">
                             <div class="service-one__inner">
                                 <i class="service-one__icon dimon-icon-visualization"></i>
@@ -157,7 +157,7 @@
                                 <a href="#" class="service-one__link"><i class="dimon-icon-right-arrow"></i></a>
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
-                    </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
+                    </div><!-- /.col-lg-3 col-md-6 col-sm-12 --> -->
                 </div><!-- /.row -->
             </div><!-- /.container -->
         </section><!-- /.service-one -->
@@ -369,7 +369,7 @@
                <?php include 'ContactFrom_v2/css/main.css';?>
 
             </style>
-                
+
             <script>
                <?php include 'ContactFrom_v2/vendor/jquery/jquery-3.2.1.min.js';?>
                <?php include 'ContactFrom_v2/vendor/bootstrap/js/popper.js';?>
@@ -377,9 +377,9 @@
                <?php include 'ContactFrom_v2/vendor/select2/select2.min.js';?>
                <?php include 'ContactFrom_v2/js/main.js';?>
 
-                
+
                 </script>
-              
+
                 <div>
                 </div><!-- /.mc-form__response -->
             </div><!-- /.container -->
