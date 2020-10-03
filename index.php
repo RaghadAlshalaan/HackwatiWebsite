@@ -64,6 +64,7 @@
                                 <a href="#features">Features</a>
 
                             </li>
+
                             <li class="scrollToLink">
                                 <a href="#video">Video</a>
 
@@ -274,7 +275,7 @@
                 </div><!-- /.app-shot-one__carousel owl-theme owl-carousel -->
             </div><!-- /.container-fluid -->
         </section><!-- /.app-shot-one -->
-        <section class="blog-one blog-one__home thm-gray-bg" id="news">
+        <section class="blog-one blog-one__home thm-gray-bg" id="developers">
             <div class="container">
                 <div class="block-title text-center">
                     <h2 class="block-title__title">المطورين</h2><!-- /.block-title__title -->
