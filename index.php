@@ -175,7 +175,7 @@
             </div><!-- /.container -->
         </section><!-- /.video-one -->
         <section class="cta-one">
-            <img src="assets/images/backgroundApp.jpg" class="cta-one__bg" alt="Awesome Image" />
+            <img src="assets/images/background/cta-one-bg.png" class="cta-one__bg" alt="Awesome Image" />
             <div class="container">
                 <img src="assets/images/mocs/cta-moc-1-1.png" class="cta-one__moc" alt="Awesome Image" />
                 <div class="row justify-content-lg-end">
@@ -186,7 +186,7 @@
                               <h2 class="block-title__title">استمع بلا حدود بتصنيفات متعددة تناسب أذواق الجميع</h2><!-- /.block-title__title -->
                           </div><!-- /.block-title -->
                           <div class="cta-one__text">
-                              <p>مع حكواتي اقضِ أمتع الأوقات بصحبة الكتب المسموعة التي تحب واستمتع بتجربة فريدة ومميزة بفضل الخصائص التي يوفرها التطبيق وأهمها:</p>
+                              <p>مع حكوات اقضِ أمتع الأوقات بصحبة الكتب المسموعة التي تحب واستمتع بتجربة فريدة ومميزة بفضل الخصائص التي يوفرها التطبيق وأهمها:</p>
                           </div><!-- /.cta-one__text -->
                           <ul class="list-unstyled">
                               <li><i class="fa fa-check"></i> زيادة أو تقليل السرعة وانت تستمع لأي كتاب صوتي لتحظى بتجربة ممتعة تناسبك</li>
