@@ -175,7 +175,7 @@
             </div><!-- /.container -->
         </section><!-- /.video-one -->
         <section class="cta-one">
-            <img src="assets/images/background/cta-one-bg.png" class="cta-one__bg" alt="Awesome Image" />
+            <img src="assets/images/backgroundApp.jpg" class="cta-one__bg" alt="Awesome Image" />
             <div class="container">
                 <img src="assets/images/mocs/cta-moc-1-1.png" class="cta-one__moc" alt="Awesome Image" />
                 <div class="row justify-content-lg-end">
