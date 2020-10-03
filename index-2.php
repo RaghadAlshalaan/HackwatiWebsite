@@ -145,6 +145,7 @@
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
                     </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
+                    
                     <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="service-one__single text-center">
                             <div class="service-one__inner">
@@ -164,7 +165,7 @@
                                 <a href="#" class="service-one__link"><i class="dimon-icon-right-arrow"></i></a>
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
-                    </div>/.col-lg-3 col-md-6 col-sm-12 --> -->
+                    </div><!--/.col-lg-3 col-md-6 col-sm-12 --> -->
                 </div><!-- /.row -->
             </div><!-- /.container -->
         </section><!-- /.service-one -->

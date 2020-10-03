@@ -157,7 +157,7 @@
                                 <a href="#" class="service-one__link"><i class="dimon-icon-right-arrow"></i></a>
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
-                    </div>/.col-lg-3 col-md-6 col-sm-12 --> -->
+                    </div><!--/.col-lg-3 col-md-6 col-sm-12 --> -->
                 </div><!-- /.row -->
             </div><!-- /.container -->
         </section><!-- /.service-one -->
