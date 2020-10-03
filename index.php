@@ -178,7 +178,7 @@
                         <div class="cta-one__content">
                             <i class="cta-one__icon dimon-icon-data1"></i>
                             <div class="block-title text-left">
-                              <h2 class="block-title__title">استمع بلا حدود بتصنيفات متعددة تناسب أذواق الجميع</h2><!-- /.block-title__title -->
+                              <h2 class="block-title__title">استمتع بلا حدود بتصنيفات متعددة تناسب طفلك </h2><!-- /.block-title__title -->
                           </div><!-- /.block-title -->
                           <div class="cta-one__text">
                       <p>اجعل طفلك يستمتع مع برنامج  حكواتي  بتجربة فريدة من نوعها ويقضي امتع الاوقات بصحبة الكتب المسموعة الشيقة بفضل الخصائص التي يوفرها التطبيق وأهمها: <p>
