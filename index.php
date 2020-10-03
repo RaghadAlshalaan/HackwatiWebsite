@@ -300,12 +300,6 @@
                                 <img src="assets/images/woman.png" alt="">
                                 <a class="blog-one__more-link" href="http://linkedin.com/in/asma-aljudaya-312b8a1aa"><i class="fa fa-linkedin" aria-hidden="true"></i>
 
-                                <img src="assets/images/blog/blog-1-1.jpg" alt="">
-                                <a class="blog-one__more-link" href="news-details.html"><i class="fa fa-link"></i>
-
-                                <img src="assets/images/woman.png" alt="">
-                                <a class="blog-one__more-link" href="news-details.html"><i class="fa fa-link"></i>
-
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
                             <div class="blog-one__content">
@@ -318,12 +312,6 @@
                             <div class="blog-one__image">
                                 <img src="assets/images/woman.png" alt="">
                                 <a class="blog-one__more-link" href="http://linkedin.com/in/ghedaa-alajaji-86ab39192"><i class="fa fa-linkedin" aria-hidden="true"></i>
-
-                                <img src="assets/images/blog/blog-1-1.jpg" alt="">
-                                <a class="blog-one__more-link" href="news-details.html"><i class="fa fa-link"></i>
-
-                                <img src="assets/images/woman.png" alt="">
-                                <a class="blog-one__more-link" href="news-details.html"><i class="fa fa-link"></i>
 
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
@@ -339,13 +327,6 @@
                                 <img src="assets/images/woman.png" alt="">
                                 <a class="blog-one__more-link" href="http://www.linkedin.com/in/shaden-alromi"><i class="fa fa-linkedin" aria-hidden="true"></i>
 
-
-                                <img src="assets/images/blog/blog-1-2.jpg" alt="">
-                                <a class="blog-one__more-link" href="news-details.html"><i class="fa fa-link"></i>
-
-                                <img src="assets/images/woman.png" alt="">
-                                <a class="blog-one__more-link" href="news-details.html"><i class="fa fa-link"></i>
-
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
                             <div class="blog-one__content">
@@ -359,12 +340,6 @@
 
                                 <img src="assets/images/woman.png" alt="">
                                 <a class="blog-one__more-link" href="https://www.linkedin.com/in/fatimah-alqahtani-36150b178"><i class="fa fa-linkedin" aria-hidden="true"></i>
-
-                                <img src="assets/images/blog/blog-1-3.jpg" alt="">
-                                <a class="blog-one__more-link" href="news-details.html"><i class="fa fa-link"></i>
-
-                                <img src="assets/images/woman.png" alt="">
-                                <a class="blog-one__more-link" href="news-details.html"><i class="fa fa-link"></i>
 
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
