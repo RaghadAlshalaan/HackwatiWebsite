@@ -227,49 +227,25 @@
                 </div><!-- /.block-title -->
                 <div class="app-shot-one__carousel owl-theme owl-carousel">
                     <div class="item">
-                        <img src="assets/images/app-shots/main.png" alt="">
+                        <img src="assets/images/app-shots/register.png" alt="">
                     </div><!-- /.item -->
                     <div class="item">
                         <img src="assets/images/app-shots/main.png" alt="">
                     </div><!-- /.item -->
                     <div class="item">
-                        <img src="assets/images/app-shots/main.png" alt="">
+                        <img src="assets/images/app-shots/explore.png" alt="">
                     </div><!-- /.item -->
                     <div class="item">
-                        <img src="assets/images/app-shots/app-shot-1-4.jpg" alt="">
+                        <img src="assets/images/app-shots/search.png" alt="">
                     </div><!-- /.item -->
                     <div class="item">
-                        <img src="assets/images/app-shots/app-shot-1-5.jpg" alt="">
+                        <img src="assets/images/app-shots/upload-story.png" alt="">
                     </div><!-- /.item -->
                     <div class="item">
-                        <img src="assets/images/app-shots/app-shot-1-1.jpg" alt="">
+                        <img src="assets/images/app-shots/record.png" alt="">
                     </div><!-- /.item -->
                     <div class="item">
-                        <img src="assets/images/app-shots/app-shot-1-2.jpg" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/app-shots/app-shot-1-3.jpg" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/app-shots/app-shot-1-4.jpg" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/app-shots/app-shot-1-5.jpg" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/app-shots/app-shot-1-1.jpg" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/app-shots/app-shot-1-2.jpg" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/app-shots/app-shot-1-3.jpg" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/app-shots/app-shot-1-4.jpg" alt="">
-                    </div><!-- /.item -->
-                    <div class="item">
-                        <img src="assets/images/app-shots/app-shot-1-5.jpg" alt="">
+                        <img src="assets/images/app-shots/profile.png" alt="">
                     </div><!-- /.item -->
                 </div><!-- /.app-shot-one__carousel owl-theme owl-carousel -->
             </div><!-- /.container-fluid -->
