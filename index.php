@@ -29,7 +29,7 @@
 
 <body>
     <div class="preloader">
-        <img src="assets/images/logo.png" class="preloader__image" alt="">
+        <img src="assets/images/logo.png" class="preloader__image" style="width: 200px; length:200px" alt="">
     </div><!-- /.preloader -->
     <div class="page-wrapper">
         <header class="site-header site-header__header-one ">
@@ -280,11 +280,12 @@
                     <h2 class="block-title__title">المطورين</h2><!-- /.block-title__title -->
                 </div><!-- /.block-title -->
                 <div class="row justify-content-md-center">
-                    <div class="col-lg-2 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
+                    <div class="col-lg-4 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="blog-one__single">
                             <div class="blog-one__image">
                                 <img src="assets/images/woman.png" alt="">
-                                <a class="blog-one__more-link" href="news-details.html"><i class="fa fa-link"></i>
+                                <a class="blog-one__more-link" href="https://www.linkedin.com/in/raghad-alshaalan-a64689178"><i class="fa fa-linkedin" aria-hidden="true"></i>
+
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
                             <div class="blog-one__content">
@@ -292,11 +293,11 @@
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
-                    <div class="col-lg-2 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
+                    <div class="col-lg-4 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="blog-one__single">
                             <div class="blog-one__image">
-                                <img src="assets/images/blog/blog-1-1.jpg" alt="">
-                                <a class="blog-one__more-link" href="news-details.html"><i class="fa fa-link"></i>
+                                <img src="assets/images/woman.png" alt="">
+                                <a class="blog-one__more-link" href="http://linkedin.com/in/asma-aljudaya-312b8a1aa"><i class="fa fa-linkedin" aria-hidden="true"></i>
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
                             <div class="blog-one__content">
@@ -304,11 +305,11 @@
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
-                    <div class="col-lg-2 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
+                    <div class="col-lg-4 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="blog-one__single">
                             <div class="blog-one__image">
-                                <img src="assets/images/blog/blog-1-1.jpg" alt="">
-                                <a class="blog-one__more-link" href="news-details.html"><i class="fa fa-link"></i>
+                                <img src="assets/images/woman.png" alt="">
+                                <a class="blog-one__more-link" href="http://linkedin.com/in/ghedaa-alajaji-86ab39192"><i class="fa fa-linkedin" aria-hidden="true"></i>
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
                             <div class="blog-one__content">
@@ -316,11 +317,12 @@
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
-                    <div class="col-lg-2 col-md-12 col-sm-12 wow fadeInDown" data-wow-duration="1500ms">
+                    <div class="col-lg-4 col-md-12 col-sm-12 wow fadeInDown" data-wow-duration="1500ms">
                         <div class="blog-one__single">
                             <div class="blog-one__image">
-                                <img src="assets/images/blog/blog-1-2.jpg" alt="">
-                                <a class="blog-one__more-link" href="news-details.html"><i class="fa fa-link"></i>
+                                <img src="assets/images/woman.png" alt="">
+                                <a class="blog-one__more-link" href="http://www.linkedin.com/in/shaden-alromi"><i class="fa fa-linkedin" aria-hidden="true"></i>
+
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
                             <div class="blog-one__content">
@@ -328,11 +330,11 @@
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
-                    <div class="col-lg-2 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
+                    <div class="col-lg-4 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="blog-one__single">
                             <div class="blog-one__image">
-                                <img src="assets/images/blog/blog-1-3.jpg" alt="">
-                                <a class="blog-one__more-link" href="news-details.html"><i class="fa fa-link"></i>
+                                <img src="assets/images/woman.png" alt="">
+                                <a class="blog-one__more-link" href="https://www.linkedin.com/in/fatimah-alqahtani-36150b178"><i class="fa fa-linkedin" aria-hidden="true"></i>
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
                             <div class="blog-one__content">
