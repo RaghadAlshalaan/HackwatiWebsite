@@ -46,37 +46,42 @@
                     </div><!-- /.logo-box -->
                     <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="main-navigation">
-                      <ul class=" one-page-scroll-menu navigation-box">
-                          <li class="current scrollToLink">
-                              <a href="index.html#banner">تواصل معنا</a>
-                            <!---->  <ul class="sub-menu">
+                        <ul class=" one-page-scroll-menu navigation-box">
+                            <li class="current scrollToLink">
+                                <a href="#banner">Home</a>
+                                <ul class="sub-menu">
+                                    <li><a href="index.html">Home 01</a></li>
+                                    <li><a href="index-2.html">Home 02</a></li>
+                                    <li><a href="#">Header Versions</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="index.html">Header 01</a></li>
+                                            <li><a href="index-2.html">Header 02</a></li>
+                                        </ul><!-- /.sub-menu -->
+                                    </li>
+                                </ul><!-- /.sub-menu -->
+                            </li>
+                            <li class="scrollToLink">
+                                <a href="#features">Features</a>
 
-                              </ul><!-- /.sub-menu -->
-                          </li>
-                          <li class="scrollToLink">
-                              <a href="index.html#video">المطورين</a>
+                            </li>
+                            <li class="scrollToLink">
+                                <a href="#video">Video</a>
 
-                          </li>
-                          <li class="scrollToLink">
-                            <a href="index.html#pricing">حول</a>
-
-                          </li>
-                          <li class="scrollToLink">
-                            <a href="index.html#screenshots">التطبيق</a>
-
-                          </li>
-                          <li class="scrollToLink">
-                              <a href="index.html#features">المميزات</a>
-
-                          </li>
-                      <!--    <li class="scrollToLink">
-                              <a href="index.html#news">News</a>
-                              <ul class="sub-menu">
-                                  <li><a href="news.html">News Page</a></li>
-                                  <li><a href="news-details.html">News Details</a></li>
-                              </ul><!-- /.sub-menu -->
-                          </li>
-                      </ul>
+                            </li>
+                            <li class="scrollToLink">
+                                <a href="#pricing">Pricing</a>
+                            </li>
+                            <li class="scrollToLink">
+                                <a href="#screenshots">App Screenshots</a>
+                            </li>
+                            <li class="scrollToLink">
+                                <a href="#news">News</a>
+                                <ul class="sub-menu">
+                                    <li><a href="news.html">News Page</a></li>
+                                    <li><a href="news-details.html">News Details</a></li>
+                                </ul><!-- /.sub-menu -->
+                            </li>
+                        </ul>
                     </div><!-- /.navbar-collapse -->
                     <div class="right-side-box">
                         <a class="thm-btn header__cta-btn" href="#"><span>Login</span></a>
@@ -172,7 +177,7 @@
         <section class="cta-one">
             <img src="assets/images/background/cta-one-bg.png" class="cta-one__bg" alt="Awesome Image" />
             <div class="container">
-                <img src="assets/images/backgroundApp.jpg" class="cta-one__moc" alt="Awesome Image" />
+                <img src="assets/images/mocs/cta-moc-1-1.png" class="cta-one__moc" alt="Awesome Image" />
                 <div class="row justify-content-lg-end">
                     <div class="col-lg-6">
                         <div class="cta-one__content">
