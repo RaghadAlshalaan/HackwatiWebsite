@@ -115,16 +115,15 @@
         <section class="service-one" id="features">
             <div class="container">
                 <div class="block-title text-center">
-                    <h2 class="block-title__title">Checkout  <span>Hakawati</span> <br> Features Below.</h2><!-- /.block-title__title -->
-                </div><!-- /.block-title -->
+                  <h2 class="block-title__title"> ألقِ نظرة على    <br>  مميزات <span> حكواتي </span> ادناه</h2><!-- /.block-title__title -->
                 <div class="row">
                     <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="service-one__single text-center">
                             <div class="service-one__inner">
                                 <i class="service-one__icon dimon-icon-laptop"></i>
-                                <h3><a href="#">Interactive </a></h3>
-                                <p>Straight Facts</p>
-                                <a href="#" class="service-one__link"><i class="dimon-icon-right-arrow"></i></a>
+                                      <h3><a href="#">تفاعلي </a></h3>
+                                    <!-- <p>Straight Facts</p> -->
+                                <!-- <a href="#" class="service-one__link"><i class="dimon-icon-right-arrow"></i></a> -->
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
                     </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
@@ -132,9 +131,9 @@
                         <div class="service-one__single text-center">
                             <div class="service-one__inner">
                                 <i class="service-one__icon dimon-icon-presentation"></i>
-                                <h3><a href="#">Challenging</a></h3>
-                                <p>Stay in the Loop</p>
-                                <a href="#" class="service-one__link"><i class="dimon-icon-right-arrow"></i></a>
+                                <h3><a href="#">تعليمي</a></h3>
+                                <!-- <p>Stay in the Loop</p> -->
+                                <!-- <a href="#" class="service-one__link"><i class="dimon-icon-right-arrow"></i></a> -->
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
                     </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
@@ -142,9 +141,9 @@
                         <div class="service-one__single text-center">
                             <div class="service-one__inner">
                                 <i class="service-one__icon dimon-icon-target"></i>
-                                <h3><a href="#">Educational</a></h3>
-                                <p>Where it Begins</p>
-                                <a href="#" class="service-one__link"><i class="dimon-icon-right-arrow"></i></a>
+                                <h3><a href="#">عربي</a></h3>
+                                <!-- <p>Where it Begins</p> -->
+                                <!-- <a href="#" class="service-one__link"><i class="dimon-icon-right-arrow"></i></a> -->
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
                     </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
@@ -152,9 +151,9 @@
                         <div class="service-one__single text-center">
                             <div class="service-one__inner">
                                 <i class="service-one__icon dimon-icon-visualization"></i>
-                                <h3><a href="#"> Arabic audiobook </a></h3>
+                                <h3><a href="#"> خيالي</a></h3>
                                 <!-- <p>Lorem ipsum is are <br> many variations of <br> pass of majority.</p> -->
-                                <a href="#" class="service-one__link"><i class="dimon-icon-right-arrow"></i></a>
+                                <!-- <a href="#" class="service-one__link"><i class="dimon-icon-right-arrow"></i></a> -->
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
                     </div><!--/.col-lg-3 col-md-6 col-sm-12 -->
@@ -369,7 +368,7 @@
                                 <img src="assets/images/logo.png" width="119" alt="" class="footer-widget__logo">
                                 <!-- /.footer-widget__contact -->
                                 <p class="footer-widget__contact"><a href="mailto:HakawatiApp1@gmail.com">HakawatiApp1@gmail.com</a>
-                                
+
                             </div><!-- /.footer-widget -->
                         </div><!-- /.col-lg-2 -->
 
