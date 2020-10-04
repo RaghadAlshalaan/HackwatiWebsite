@@ -61,7 +61,7 @@
                                 </ul><!-- /.sub-menu -->
                             </li>
                             <li class="scrollToLink">
-                                <a href="#"></a>
+                                <a href="#features">Features</a>
 
                             </li>
                             <li class="scrollToLink">
@@ -112,7 +112,7 @@
                 </div><!-- /.row -->
             </div><!-- /.container -->
         </section><!-- /.banner-one -->
-        <section class="service-one" id="">
+        <section class="service-one" id="features">
             <div class="container">
                 <div class="block-title text-center">
                   <h2 class="block-title__title"> ألقِ نظرة على    <br>  مميزات <span> حكواتي </span> ادناه</h2><!-- /.block-title__title -->
@@ -160,21 +160,19 @@
                 </div><!-- /.row -->
             </div><!-- /.container -->
         </section><!-- /.service-one -->
-        <!-- <section class="video-one" id="video">
+        <section class="video-one" id="video">
             <img src="assets/images/background/video-one-bg.png" alt="Awesome Image" class="video-one__bg" />
             <div class="container wow fadeInUp" data-wow-duration="1500ms">
                 <div class="video-one__box ">
                     <img src="assets/images/resources/video-1-1.jpg" alt="">
                     <div class="video-one__content">
-                        <a href="https://www.youtube.com/watch?v=coI_aT4BDNA" class="video-popup video-one__btn"><i class="fa fa-play"></i> /.fa fa-play --></a>
+                        <a href="https://www.youtube.com/watch?v=coI_aT4BDNA" class="video-popup video-one__btn"><i class="fa fa-play"></i><!-- /.fa fa-play --></a>
                         <!-- /.video-popup -->
-                        <!-- <h2 class="video-one__title">Watch Our <span>Tutorial</span> <br> Videos.</h2> /.video-one__title -->
-                    <!-- </div> /.video-one__content -->
-                <!-- </div><! /.video-one__box -->
-          <!--  </div>
-           /.container 
-        </section> -->
-        <!-- /.video-one -->
+                        <h2 class="video-one__title">Watch Our <span>Tutorial</span> <br> Videos.</h2><!-- /.video-one__title -->
+                    </div><!-- /.video-one__content -->
+                </div><!-- /.video-one__box -->
+            </div><!-- /.container -->
+        </section><!-- /.video-one -->
         <section class="cta-one">
             <img src="assets/images/background/cta-one-bg.png" class="cta-one__bg" alt="Awesome Image" />
             <div class="container">
