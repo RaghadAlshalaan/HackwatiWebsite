@@ -380,7 +380,7 @@
                             <div class="footer-widget">
                                 <div class="site-footer__social">
                                 
-                                    <a href="#" class="fa fa-twitter"></a>
+                                    <a href="https://twitter.com/hakawatiApp" class="fa fa-twitter"></a>
                                
                                 </div><!-- /.site-footer__social -->
                             </div><!-- /.footer-widget -->
