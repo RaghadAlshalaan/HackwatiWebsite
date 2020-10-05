@@ -374,14 +374,13 @@
                         </div><!-- /.col-lg-2 -->
 
 
-                       <!--shaden-->>
+                       <!--shaden-->
                         <div class="col-lg-3">
                             <div class="footer-widget">
                                 <div class="site-footer__social">
-                                    <a href="#" class="fa fa-facebook-square"></a>
+                                
                                     <a href="#" class="fa fa-twitter"></a>
-                                    <a href="#" class="fa fa-instagram"></a>
-                                    <a href="#" class="fa fa-pinterest-p"></a>
+                               
                                 </div><!-- /.site-footer__social -->
                             </div><!-- /.footer-widget -->
                         </div><!-- /.col-lg-4 -->
