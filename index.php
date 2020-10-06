@@ -58,15 +58,15 @@
 
                           </li>
                           <li class="scrollToLink">
-                            <a href="index.html#pricing">حول</a>
+                            <a href="#pricing">حول</a>
 
                           </li>
                           <li class="scrollToLink">
-                            <a href="index.html#screenshots">التطبيق</a>
+                            <a href="#screenshots">التطبيق</a>
 
                           </li>
                           <li class="scrollToLink">
-                              <a href="index.html#features">المميزات</a>
+                              <a href="#features">المميزات</a>
 
                           </li>
                       <!--    <li class="scrollToLink">
