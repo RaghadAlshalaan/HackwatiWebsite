@@ -48,13 +48,13 @@
                   <div class="main-navigation">
                       <ul class=" one-page-scroll-menu navigation-box">
                           <li class="current scrollToLink">
-                              <a href="index.html#banner">تواصل معنا</a>
+                              <a href="#banner">تواصل معنا</a>
                             <!---->  <ul class="sub-menu">
 
                               </ul><!-- /.sub-menu -->
                           </li>
                           <li class="scrollToLink">
-                              <a href="index.html#video">المطورين</a>
+                              <a href="#news">المطورين</a>
 
                           </li>
                           <li class="scrollToLink">
