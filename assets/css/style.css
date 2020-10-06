@@ -439,7 +439,7 @@ a:visited {
   transition: all .4s ease;
 }
 .header-navigation ul.navigation-box > li > ul > li > .sub-menu > li:hover > a {
-  color: #fff;
+  color: #000000;
   background: #ffa065;
 }
 .header-navigation ul.navigation-box > li > ul > li:hover > .sub-menu {
