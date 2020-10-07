@@ -97,7 +97,6 @@
             <span class="banner-one__shape-4"></span>
             <div class="container">
                 <div class="banner-one__moc">
-                    <img src="assets/images/mocs/banner-moc-1-1.png" alt="Awesome Image" />
                 </div><!-- /.banner-one__moc -->
                 <div class="row">
                     <div class="col-xl-6 col-lg-8">
