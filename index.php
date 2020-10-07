@@ -380,7 +380,7 @@
                             <div class="footer-widget">
                                 <div class="site-footer__social">
                                 
-                                    <a href="https://twitter.com/hakawatiApp" class="fa fa-twitter"></a>
+                                    <a href="#" class="fa fa-twitter"></a>
                                
                                 </div><!-- /.site-footer__social -->
                             </div><!-- /.footer-widget -->
@@ -388,13 +388,7 @@
                     </div><!-- /.row -->
                 </div><!-- /.container -->
             </div><!-- /.site-footer__upper -->
-            <div class="site-footer__bottom">
-                <div class="container">
-                    <div class="inner-container text-center">
-                        <p class="site-footer__copy">&copy; copyright 2020 by <a href="#">Layerdrops.com</a></p>
-                        <!-- /.site-footer__copy -->
-                    </div><!-- /.inner-container -->
-                </div><!-- /.container -->
+          
             </div><!-- /.site-footer__bottom -->
         </footer><!-- /.site-footer -->
     </div><!-- /.page-wrapper -->
