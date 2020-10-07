@@ -2815,3 +2815,11 @@ a:visited {
   transition: transform .4s ease;
   transition: transform .4s ease, -webkit-transform .4s ease;
 }
+
+.content {
+  max-width: 500px;
+  margin: auto;
+  -ms-flex: 0 0 25%;
+  flex: 0 0 25%;
+  max-width: 25%;
+}
