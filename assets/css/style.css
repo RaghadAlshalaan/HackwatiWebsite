@@ -492,11 +492,11 @@ a:visited {
 }
 
 .site-header__header-two .header-navigation ul.navigation-box > li > a {
-  color: #ffffff;
+  color: #000000	;
 }
 .site-header__header-two .header-navigation ul.navigation-box > li.current > a,
 .site-header__header-two .header-navigation ul.navigation-box > li:hover > a {
-  color: #ffffff;
+  color: #000000	;
   text-shadow: 1px 0 0 rgba(255, 255, 255, 0.8);
 }
 .site-header__header-two .header__cta-btn {

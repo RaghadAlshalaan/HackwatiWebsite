@@ -32,64 +32,60 @@
         <img src="assets/images/logo.png" class="preloader__image" style="width: 200px; length:200px" alt="">
     </div><!-- /.preloader -->
     <div class="page-wrapper">
-        <header class="site-header site-header__header-one ">
-            <nav class="navbar navbar-expand-lg navbar-light header-navigation stricky">
-                <div class="container clearfix">
-                    <!-- Brand and toggle get grouped for better mobile display -->
-                    <div class="logo-box clearfix">
-                        <a class="navbar-brand" href="index.html">
-                          <!--  <img src="https://trello-attachments.s3.amazonaws.com/5f4d599f0ffe7d49cceda0bf/5f4d599f0ffe7d49cceda0ec/447d6e9edfbaa8d4b9d809bb7621b985/logo_hak.png" class="main-logo" width="119" alt="حكواتي" />-->
-                        </a>
-                        <button class="menu-toggler" data-target=".main-navigation">
-                            <span class="fa fa-bars"></span>
-                        </button>
-                    </div><!-- /.logo-box -->
-                    <!-- Collect the nav links, forms, and other content for toggling -->
-                    <div class="main-navigation">
-                        <ul class=" one-page-scroll-menu navigation-box">
-                            <li class="current scrollToLink">
-                                <a href="#banner">Home</a>
-                                <ul class="sub-menu">
-                                    <li><a href="index.html">Home 01</a></li>
-                                    <li><a href="index-2.html">Home 02</a></li>
-                                    <li><a href="#">Header Versions</a>
-                                        <ul class="sub-menu">
-                                            <li><a href="index.html">Header 01</a></li>
-                                            <li><a href="index-2.html">Header 02</a></li>
-                                        </ul><!-- /.sub-menu -->
-                                    </li>
-                                </ul><!-- /.sub-menu -->
-                            </li>
-                            <li class="scrollToLink">
-                                <a href="#features">Features</a>
+      <header class="site-header site-header__header-one site-header__header-two ">
+          <nav class="navbar navbar-expand-lg navbar-light header-navigation stricky">
+              <div class="container clearfix">
+                  <!-- Brand and toggle get grouped for better mobile display -->
+                  <div class="logo-box clearfix">
+                      <a class="navbar-brand" href="index.html">
+                        <!--  <img src="https://trello-attachments.s3.amazonaws.com/5f4d599f0ffe7d49cceda0bf/5f4d599f0ffe7d49cceda0ec/447d6e9edfbaa8d4b9d809bb7621b985/logo_hak.png" class="main-logo" width="119" alt="حكواتي" />-->
+                      </a>
+                      <button class="menu-toggler" data-target=".main-navigation">
+                          <span class="fa fa-bars"></span>
+                      </button>
+                  </div><!-- /.logo-box -->
+                  <!-- Collect the nav links, forms, and other content for toggling -->
+                  <div class="main-navigation">
+                      <ul class=" one-page-scroll-menu navigation-box">
+                          <li class="current scrollToLink">
+                              <a href="#contact">تواصل معنا</a>
+                            <!---->  <ul class="sub-menu">
 
-                            </li>
-                            <li class="scrollToLink">
-                                <a href="#video">Video</a>
+                              </ul><!-- /.sub-menu -->
+                          </li>
+                          <li class="scrollToLink">
+                              <a href="#news">المطورين</a>
 
-                            </li>
-                            <li class="scrollToLink">
-                                <a href="#pricing">Pricing</a>
-                            </li>
-                            <li class="scrollToLink">
-                                <a href="#screenshots">App Screenshots</a>
-                            </li>
-                            <li class="scrollToLink">
-                                <a href="#news">News</a>
-                                <ul class="sub-menu">
-                                    <li><a href="news.html">News Page</a></li>
-                                    <li><a href="news-details.html">News Details</a></li>
-                                </ul><!-- /.sub-menu -->
-                            </li>
-                        </ul>
-                    </div><!-- /.navbar-collapse -->
-                    <div class="right-side-box">
-                      <img src="https://trello-attachments.s3.amazonaws.com/5f4d599f0ffe7d49cceda0bf/5f4d599f0ffe7d49cceda0ec/447d6e9edfbaa8d4b9d809bb7621b985/logo_hak.png" class="main-logo" width="119" alt="حكواتي" />
-                    </div><!-- /.right-side-box -->
-                </div>
-                <!-- /.container -->
-            </nav>
-        </header><!-- /.site-header -->
+                          </li>
+                          <li class="scrollToLink">
+                            <a href="#about">حول</a>
+
+                          </li>
+                          <li class="scrollToLink">
+                            <a href="#screenshots">التطبيق</a>
+
+                          </li>
+                          <li class="scrollToLink">
+                              <a href="#features">المميزات</a>
+
+                          </li>
+                      <!--    <li class="scrollToLink">
+                              <a href="index.html#news">News</a>
+                              <ul class="sub-menu">
+                                  <li><a href="news.html">News Page</a></li>
+                                  <li><a href="news-details.html">News Details</a></li>
+                              </ul><!-- /.sub-menu -->
+                          </li>
+                      </ul>
+                  </div><!-- /.navbar-collapse -->
+                  <div class="right-side-box">
+                    <a class="navbar-brand" href="index.html">
+                        <img src="https://trello-attachments.s3.amazonaws.com/5f4d599f0ffe7d49cceda0bf/5f4d599f0ffe7d49cceda0ec/447d6e9edfbaa8d4b9d809bb7621b985/logo_hak.png" class="main-logo" width="119" alt="حكواتي" />
+                    </a>                    </div><!-- /.right-side-box -->
+              </div>
+              <!-- /.container -->
+          </nav>
+      </header><!-- /.site-header -->
         <section class="banner-one" id="banner">
             <span class="banner-one__shape-1"></span>
             <span class="banner-one__shape-2"></span>
@@ -97,7 +93,6 @@
             <span class="banner-one__shape-4"></span>
             <div class="container">
                 <div class="banner-one__moc">
-                    <img src="assets/images/mocs/banner-moc-1-1.png" alt="Awesome Image" />
                 </div><!-- /.banner-one__moc -->
                 <div class="row">
                     <div class="col-xl-6 col-lg-8">
@@ -330,7 +325,7 @@
         </section><!-- /.blog-one blog-one__home -->
 
 
-        <section class="mailchimp-one">
+        <section class="mailchimp-one" id="contact">
               <div class="block-title text-center"> <h1>تواصل معنا</h1>
                 </div><!-- /.block-title -->
 
@@ -383,9 +378,9 @@
                         <div class="col-lg-3">
                             <div class="footer-widget">
                                 <div class="site-footer__social">
-                                
-                                    <a href="#" class="fa fa-twitter"></a>
-                               
+
+                                    <a href="https://twitter.com/hakawatiApp" class="fa fa-twitter"></a>
+
                                 </div><!-- /.site-footer__social -->
                             </div><!-- /.footer-widget -->
                         </div><!-- /.col-lg-4 -->
