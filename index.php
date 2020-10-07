@@ -362,6 +362,9 @@
             </div><!-- /.container -->
         </section><!-- /.mailchimp-one -->
         <footer class="site-footer">
+
+        <div class="content"> <!-- center the content-->
+
             <div class="site-footer__upper">
                 <div class="container">
                     <div class="row">
@@ -373,6 +376,7 @@
 
                             </div><!-- /.footer-widget -->
                         </div><!-- /.col-lg-2 -->
+                        </div> <!--content-->
 
 
                        <!--shaden-->
