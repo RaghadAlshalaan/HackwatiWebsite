@@ -348,6 +348,9 @@
             </div><!-- /.container -->
         </section><!-- /.mailchimp-one -->
         <footer class="site-footer">
+
+        <div class="content"> <!-- center the content-->
+
             <div class="site-footer__upper">
                 <div class="container">
                     <div class="row">
@@ -360,6 +363,7 @@
                                     <p class="footer-widget__contact">855 road, broklyn street <br> new york 600</p><!-- /.footer-widget__contact -->
                             </div><!-- /.footer-widget -->
                         </div><!-- /.col-lg-2 -->
+<<<<<<< HEAD
                         <div class="col-lg-6 d-flex justify-content-between footer-widget__links-wrap">
                             <div class="footer-widget">
                                 <h3 class="footer-widget__title">Explore</h3><!-- /.footer-widget__title -->
@@ -390,6 +394,12 @@
                                 </ul><!-- /.footer-widget__links -->
                             </div><!-- /.footer-widget -->
                         </div><!-- /.col-lg-6 -->
+=======
+                        </div> <!--content-->
+
+
+                       <!--shaden-->
+>>>>>>> 190a036920b8086d0954b7c862d00453ce606934
                         <div class="col-lg-3">
                             <div class="footer-widget">
                                 <div class="site-footer__social">
@@ -403,13 +413,7 @@
                     </div><!-- /.row -->
                 </div><!-- /.container -->
             </div><!-- /.site-footer__upper -->
-            <div class="site-footer__bottom">
-                <div class="container">
-                    <div class="inner-container text-center">
-                        <p class="site-footer__copy">&copy; copyright 2020 by <a href="#">Layerdrops.com</a></p>
-                        <!-- /.site-footer__copy -->
-                    </div><!-- /.inner-container -->
-                </div><!-- /.container -->
+          
             </div><!-- /.site-footer__bottom -->
         </footer><!-- /.site-footer -->
     </div><!-- /.page-wrapper -->

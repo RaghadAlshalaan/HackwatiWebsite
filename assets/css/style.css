@@ -2816,3 +2816,9 @@ a:visited {
   transition: transform .4s ease;
   transition: transform .4s ease, -webkit-transform .4s ease;
 }
+
+.content {
+  max-width: 200px !important;
+  margin: auto !important;
+ 
+}
