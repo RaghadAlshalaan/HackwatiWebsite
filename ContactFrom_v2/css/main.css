@@ -1,87 +1,124 @@
-
-
-
-
 /*//////////////////////////////////////////////////////////////////
 [ FONT ]*/
 
 @font-face {
-  font-family: Poppins-Regular;
-  src: url('../fonts/poppins/Poppins-Regular.ttf'); 
+  font-family: "Frutiger LT Arabic";
+  src: url("./arabic-fonts/FrutigerLTArabic-45Light.eot");
+  src: url("./arabic-fonts/FrutigerLTArabic-45Light.eot?#iefix") format("embedded-opentype"),
+    url("./arabic-fonts/FrutigerLTArabic-45Light.woff2") format("woff2"),
+    url("./arabic-fonts/FrutigerLTArabic-45Light.woff") format("woff"),
+    url("./arabic-fonts/FrutigerLTArabic-45Light.ttf") format("truetype"),
+    url("./arabic-fonts/FrutigerLTArabic-45Light.svg#FrutigerLTArabic-45Light") format("svg");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-  font-family: Poppins-Medium;
-  src: url('../fonts/poppins/Poppins-Medium.ttf'); 
+  font-family: "Frutiger LT Arabic";
+  src: url("./arabic-fonts/FrutigerLTArabic-55Roman.eot");
+  src: url("./arabic-fonts/FrutigerLTArabic-55Roman.eot?#iefix") format("embedded-opentype"),
+    url("./arabic-fonts/FrutigerLTArabic-55Roman.woff2") format("woff2"),
+    url("./arabic-fonts/FrutigerLTArabic-55Roman.woff") format("woff"),
+    url("./arabic-fonts/FrutigerLTArabic-55Roman.ttf") format("truetype"),
+    url("./arabic-fonts/FrutigerLTArabic-55Roman.svg#FrutigerLTArabic-55Roman") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
 
 @font-face {
-  font-family: Poppins-Bold;
-  src: url('../fonts/poppins/Poppins-Bold.ttf'); 
+  font-family: "Frutiger LT Arabic";
+  src: url("./arabic-fonts/FrutigerLTArabic-75Black.eot");
+  src: url("./arabic-fonts/FrutigerLTArabic-75Black.eot?#iefix") format("embedded-opentype"),
+    url("./arabic-fonts/FrutigerLTArabic-75Black.woff2") format("woff2"),
+    url("./arabic-fonts/FrutigerLTArabic-75Black.woff") format("woff"),
+    url("./arabic-fonts/FrutigerLTArabic-75Black.ttf") format("truetype"),
+    url("./arabic-fonts/FrutigerLTArabic-75Black.svg#FrutigerLTArabic-75Black") format("svg");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
 }
 
-
-
+@font-face {
+  font-family: "Frutiger LT Arabic";
+  src: url("./arabic-fonts/FrutigerLTArabic-65Bold.eot");
+  src: url("./arabic-fonts/FrutigerLTArabic-65Bold.eot?#iefix") format("embedded-opentype"),
+    url("./arabic-fonts/FrutigerLTArabic-65Bold.woff2") format("woff2"),
+    url("./arabic-fonts/FrutigerLTArabic-65Bold.woff") format("woff"),
+    url("./arabic-fonts/FrutigerLTArabic-65Bold.ttf") format("truetype"),
+    url("./arabic-fonts/FrutigerLTArabic-65Bold.svg#FrutigerLTArabic-65Bold") format("svg");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
 
 /*//////////////////////////////////////////////////////////////////
 [ RESTYLE TAG ]*/
 
 * {
-	margin: 0px; 
-	padding: 0px; 
-	box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Frutiger LT Arabic";
 }
 
-body, html {
-	height: 100%;
-	font-family: Poppins-Regular, sans-serif;
+body,
+html {
+  height: 100%;
+  font-family: 'Frutiger LT Arabic';
 }
 
 /*---------------------------------------------*/
 a {
-	font-family: Poppins-Regular;
-	font-size: 14px;
-	line-height: 1.7;
-	color: #666666;
-	margin: 0px;
-	transition: all 0.4s;
-	-webkit-transition: all 0.4s;
+  font-family: "Frutiger LT Arabic";
+  font-size: 14px;
+  line-height: 1.7;
+  color: #666666;
+  margin: 0px;
+  transition: all 0.4s;
+  -webkit-transition: all 0.4s;
   -o-transition: all 0.4s;
   -moz-transition: all 0.4s;
 }
 
 a:focus {
-	outline: none !important;
+  outline: none !important;
 }
 
 a:hover {
-	text-decoration: none;
-	color: #57b846;
+  text-decoration: none;
+  color: #57b846;
 }
 
 /*---------------------------------------------*/
-h1,h2,h3,h4,h5,h6 {
-	margin: 0px;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0px;
 }
 
 p {
-	font-family: Poppins-Regular;
-	font-size: 14px;
-	line-height: 1.7;
-	color: #666666;
-	margin: 0px;
+  font-family: "Frutiger LT Arabic";
+  font-size: 14px;
+  line-height: 1.7;
+  color: #666666;
+  margin: 0px;
 }
 
-ul, li {
-	margin: 0px;
-	list-style-type: none;
+ul,
+li {
+  margin: 0px;
+  list-style-type: none;
 }
-
 
 /*---------------------------------------------*/
 input {
-	outline: none;
-	border: none;
+  outline: none;
+  border: none;
 }
 
 textarea {
@@ -89,60 +126,89 @@ textarea {
   border: none;
 }
 
-textarea:focus, input:focus {
+textarea:focus,
+input:focus {
   border-color: transparent !important;
 }
 
-input:focus::-webkit-input-placeholder { color:transparent; }
-input:focus:-moz-placeholder { color:transparent; }
-input:focus::-moz-placeholder { color:transparent; }
-input:focus:-ms-input-placeholder { color:transparent; }
+input:focus::-webkit-input-placeholder {
+  color: transparent;
+}
+input:focus:-moz-placeholder {
+  color: transparent;
+}
+input:focus::-moz-placeholder {
+  color: transparent;
+}
+input:focus:-ms-input-placeholder {
+  color: transparent;
+}
 
-textarea:focus::-webkit-input-placeholder { color:transparent; }
-textarea:focus:-moz-placeholder { color:transparent; }
-textarea:focus::-moz-placeholder { color:transparent; }
-textarea:focus:-ms-input-placeholder { color:transparent; }
+textarea:focus::-webkit-input-placeholder {
+  color: transparent;
+}
+textarea:focus:-moz-placeholder {
+  color: transparent;
+}
+textarea:focus::-moz-placeholder {
+  color: transparent;
+}
+textarea:focus:-ms-input-placeholder {
+  color: transparent;
+}
 
-input::-webkit-input-placeholder { color: #999999; }
-input:-moz-placeholder { color: #999999; }
-input::-moz-placeholder { color: #999999; }
-input:-ms-input-placeholder { color: #999999; }
+input::-webkit-input-placeholder {
+  color: #999999;
+}
+input:-moz-placeholder {
+  color: #999999;
+}
+input::-moz-placeholder {
+  color: #999999;
+}
+input:-ms-input-placeholder {
+  color: #999999;
+}
 
-textarea::-webkit-input-placeholder { color: #999999; }
-textarea:-moz-placeholder { color: #999999; }
-textarea::-moz-placeholder { color: #999999; }
-textarea:-ms-input-placeholder { color: #999999; }
+textarea::-webkit-input-placeholder {
+  color: #999999;
+}
+textarea:-moz-placeholder {
+  color: #999999;
+}
+textarea::-moz-placeholder {
+  color: #999999;
+}
+textarea:-ms-input-placeholder {
+  color: #999999;
+}
 
 /*---------------------------------------------*/
 button {
-	outline: none !important;
-	border: none;
-	background: transparent;
+  outline: none !important;
+  border: none;
+  background: transparent;
 }
 
 button:hover {
-	cursor: pointer;
+  cursor: pointer;
 }
 
 iframe {
-	border: none !important;
+  border: none !important;
 }
-
-
-
-
 
 /*//////////////////////////////////////////////////////////////////
 [ Contact 2 ]*/
 .bg-contact2 {
-  width: 100%;  
+  width: 100%;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
 }
 
 .container-contact2 {
-  width: 100%;  
+  width: 100%;
   min-height: 100vh;
   display: -webkit-box;
   display: -webkit-flex;
@@ -168,7 +234,6 @@ iframe {
   padding: 72px 55px 90px 55px;
 }
 
-
 /*------------------------------------------------------------------
 [  ]*/
 
@@ -178,15 +243,13 @@ iframe {
 
 .contact2-form-title {
   display: block;
-  font-family: Poppins-Bold;
+  font-family: "Frutiger LT Arabic";
   font-size: 39px;
   color: #333333;
   line-height: 1.2;
   text-align: center;
   padding-bottom: 90px;
 }
-
-
 
 /*------------------------------------------------------------------
 [  ]*/
@@ -206,7 +269,7 @@ iframe {
   display: block;
   width: 100%;
   direction: rtl;
-  font-family: Poppins-Regular;
+  font-family: "Frutiger LT Arabic";
   font-size: 15px;
   color: #555555;
   line-height: 1.2;
@@ -223,7 +286,6 @@ iframe {
   align-items: flex-start;
   pointer-events: none;
   direction: rtl;
-
 }
 
 .focus-input2::before {
@@ -240,7 +302,7 @@ iframe {
   -moz-transition: all 0.4s;
   transition: all 0.4s;
 
-  background: rgba(219,21,99,1);
+  background: rgba(219, 21, 99, 1);
   background: -webkit-linear-gradient(45deg, #d5007d, #e53935);
   background: -o-linear-gradient(45deg, #d5007d, #e53935);
   background: -moz-linear-gradient(45deg, #d5007d, #e53935);
@@ -257,7 +319,7 @@ iframe {
   top: 0px;
   right: 0;
 
-  font-family: Poppins-Regular;
+  font-family: "Frutiger LT Arabic";
   font-size: 13px;
   color: #999999;
   line-height: 1.2;
@@ -268,7 +330,6 @@ iframe {
   transition: all 0.4s;
   float: right;
   direction: rtl;
-
 }
 
 /*---------------------------------------------*/
@@ -338,7 +399,7 @@ textarea.input2 + .focus-input2::after {
   z-index: -1;
   width: 300%;
   height: 100%;
- /* background: rgba(219,21,99,1);
+  /* background: rgba(219,21,99,1);
   background: -webkit-linear-gradient(-135deg, #d5007d, #e53935, #d5007d, #e53935);
   background: -o-linear-gradient(-135deg, #d5007d, #e53935, #d5007d, #e53935);
   background: -moz-linear-gradient(-135deg, #d5007d, #e53935, #d5007d, #e53935);
@@ -364,14 +425,10 @@ textarea.input2 + .focus-input2::after {
   min-width: 244px;
   height: 50px;
 
- 
-
-  font-family: Poppins-Medium;
+  font-family: "Frutiger LT Arabic";
   font-size: 16px;
   color: #000000;
   line-height: 1.2;
-  
-
 }
 
 .wrap-contact2-form-btn:hover .contact2-form-bgbtn {
@@ -387,15 +444,12 @@ textarea.input2 + .focus-input2::after {
   }
 }
 
-
-
 /*------------------------------------------------------------------
 [ Alert validate ]*/
 
 .validate-input {
   position: relative;
   direction: rtl;
-
 }
 
 .alert-validate::before {
@@ -415,7 +469,7 @@ textarea.input2 + .focus-input2::after {
   left: 0px;
   pointer-events: none;
 
-  font-family: Poppins-Regular;
+  font-family: "Frutiger LT Arabic";
   color: #c80000;
   font-size: 13px;
   line-height: 1.4;
@@ -429,13 +483,12 @@ textarea.input2 + .focus-input2::after {
   -moz-transition: opacity 0.4s;
   transition: opacity 0.4s;
   float: left;
-    /***/
-    
+  /***/
 }
 
 .alert-validate::after {
   content: "\f12a";
-  font-family: FontAwesome;
+  font-family: "Frutiger LT Arabic";
   display: block;
   position: relative;
   color: #c80000;
@@ -447,13 +500,12 @@ textarea.input2 + .focus-input2::after {
   -o-transform: translateY(-50%);
   transform: translateY(-50%);
   right: 8px;
-  float: left;    /****/
+  float: left; /****/
 }
 
 .alert-validate:hover:before {
   visibility: hidden;
   opacity: 1;
-
 }
 
 @media (max-width: 992px) {

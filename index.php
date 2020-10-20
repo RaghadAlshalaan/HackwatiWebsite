@@ -14,11 +14,10 @@
     <!-- plugin scripts -->
     <link href="https://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/animate.min.css">
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
     <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
     <link rel="stylesheet" href="assets/css/magnific-popup.css">
-    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="ContactFrom_v2/css/arabic-fonts/stylesheet.css">
     <link rel="stylesheet" href="assets/css/swiper.min.css">
     <link rel="stylesheet" href="assets/plugins/dimon-icons/style.css">
 
@@ -103,7 +102,7 @@
                     <div class="col-xl-6 col-lg-8">
                         <div class="banner-one__content">
 
-                            <h3 class="banner-one__title">We Deliver the <br> <span>Software</span> you <br> Need.</h3><!-- /.banner-one__title -->
+                            <h3 class="banner-one__title">طورنا <br> <span>تطبيق</span> لك <br> لاحتياجك</h3><!-- /.banner-one__title -->
                             <p class="banner-one__text">We are committed to providing our customers with <br> exceptional service while offering our employees the <br> best training.</p>
                             <!-- /.banner-one__text -->
                         </div><!-- /.banner-one__content -->
@@ -324,7 +323,7 @@
             <?php include 'ContactFrom_v2/email.php';?>
             <style>
                <?php include 'ContactFrom_v2/vendor/bootstrap/css/bootstrap.min.css';?>
-               <?php include 'ContactFrom_v2/fonts/font-awesome-4.7.0/css/font-awesome.min.css';?>
+               <?php include 'ContactFrom_v2/css/arabic-fonts/stylesheet.css';?>
                <?php include 'ContactFrom_v2/vendor/animate/animate.css';?>
                <?php include 'ContactFrom_v2/vendor/css-hamburgers/hamburgers.min.css';?>
                <?php include 'ContactFrom_v2/vendor/select2/select2.min.css';?>

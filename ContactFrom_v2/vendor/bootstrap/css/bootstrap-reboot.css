@@ -221,7 +221,7 @@ select,
 optgroup,
 textarea {
   margin: 0;
-  font-family: inherit;
+  font-family: tahoma;
   font-size: inherit;
   line-height: inherit;
 }
