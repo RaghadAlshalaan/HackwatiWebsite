@@ -32,6 +32,7 @@ body {
   color: #74727a;
   font-size: 18px;
   line-height: 34px;
+  direction:rtl;
 }
 
 a:active,
@@ -232,20 +233,7 @@ a:visited {
   position: relative;
   display: block;
 }
-.header-navigation .container .logo-box {
-  float: left;
-  position: absolute;
-  top: 50%;
-  left: 15px;
-  -webkit-transform: translateY(-50%);
-  transform: translateY(-50%);
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-}
+
 .header-navigation .container .navbar-brand {
   height: auto;
   margin: 0;
@@ -282,21 +270,21 @@ a:visited {
 }
 .header-navigation ul.navigation-box > li {
   position: relative;
-  padding: 40px 0;
+  padding: 70px 0;
   display: inline-block;
   vertical-align: middle;
+
   /* Second Level Menu */
   /* Thrid Level Menu */
 }
+
 .header-navigation ul.navigation-box > li + li {
-  margin-left: 70px;
+  margin-left: 50px;
 }
 .header-navigation ul.navigation-box > li:first-child {
-  padding-left: 0;
+  padding-left:  50px;
 }
-.header-navigation ul.navigation-box > li:last-child {
-  padding-right: 0;
-}
+
 .header-navigation ul.navigation-box > li > a {
   padding: 0;
   -webkit-transition: all .4s ease;
@@ -304,19 +292,20 @@ a:visited {
   position: relative;
   font-size: 16px;
   font-weight: 400;
-  color: #74727a;
+  color: #999999;
   position: relative;
 }
+
 .header-navigation ul.navigation-box > li.current > a, .header-navigation ul.navigation-box > li:hover > a {
-  color: #2a2833;
-  text-shadow: 1px 0 0 rgba(42, 40, 51, 0.8);
+  color: #a5d851;
+  text-shadow: 1px 0 0 rgba(168, 168, 168, 0.8);
 }
 .header-navigation ul.navigation-box > li > .sub-menu {
   position: absolute;
   top: 100%;
   left: 0;
   z-index: 911;
-  float: left;
+  float: right;
   min-width: 220px;
   padding: 0px 0px;
   text-align: left;
@@ -388,7 +377,7 @@ a:visited {
   top: 0%;
   left: 100%;
   z-index: 911;
-  float: left;
+  float: right;
   min-width: 220px;
   padding: 0px 0px;
   text-align: left;
@@ -492,11 +481,11 @@ a:visited {
 }
 
 .site-header__header-two .header-navigation ul.navigation-box > li > a {
-  color: #000000	;
+  color: #fa0000	;
 }
 .site-header__header-two .header-navigation ul.navigation-box > li.current > a,
 .site-header__header-two .header-navigation ul.navigation-box > li:hover > a {
-  color: #000000	;
+  color: #f08a8a	;
   text-shadow: 1px 0 0 rgba(255, 255, 255, 0.8);
 }
 .site-header__header-two .header__cta-btn {
