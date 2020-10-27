@@ -29,11 +29,11 @@
 * 1. common styles
 */
 body {
-  font-family: "Rubik";
   color: #74727a;
   font-size: 18px;
   line-height: 34px;
   direction:rtl;
+  text-align: right;
 }
 
 a:active,
@@ -53,14 +53,20 @@ a:visited {
 
 .thm-base-bg {
   background-color: #ff4eb5;
+  z-index: -1;
+
 }
 
 .thm-base-bg-2 {
   background-color: #ffa065;
+  z-index: -1;
+
 }
 
 .thm-gray-bg {
   background-color: #fefbf4;
+  z-index: -1;
+
 }
 
 @media (min-width: 1200px) {
@@ -78,6 +84,7 @@ a:visited {
   font-weight: 400;
   color: #2a2833;
   line-height: 1.2em;
+  text-align: center;
 }
 .block-title__title span {
   font-weight: 700;
@@ -577,18 +584,20 @@ a:visited {
 .banner-one__moc {
   position: absolute;
   bottom: 7%;
-  right: -30px;
+  left: 50px;
+  opacity: .2;
 }
 .banner-one__moc:before {
   content: '';
-  width: 639px;
-  height: 639px;
-  background-image: linear-gradient(40deg, #a1dfd0 0%, #a1dfd0 100%);
+  width: 550px;
+  height: 550px;
+  
+  background-image: linear-gradient(40deg, #eee 0%, #eee 0%);
   -webkit-box-shadow: 0px 20px 60px 0px #C3CFC4;
   box-shadow: 0px 20px 60px 0px #C3CFC4;
   border-radius: 50%;
   position: absolute;
-  top: -14%;
+  top: -0%;
   left: -24%;
   -webkit-transform-origin: center bottom;
           transform-origin: center bottom;
@@ -604,7 +613,9 @@ a:visited {
           animation-iteration-count: infinite;
 }
 .banner-one__moc img {
+  
   position: relative;
+  opacity: 0;
   -webkit-animation: featureImgBounce 5s ease-in-out 0s infinite alternate;
           animation: featureImgBounce 5s ease-in-out 0s infinite alternate;
 }
@@ -2462,13 +2473,15 @@ a:visited {
 * 15. cta styles
 */
 .cta-one {
-  padding: 165px 0;
+  padding: 120px 0;
   position: relative;
+  top: -50px;
 }
 .cta-one__bg {
   position: absolute;
   bottom: 4%;
   right: 0;
+  z-index: -1;
 }
 .cta-one .container {
   position: relative;
@@ -2486,7 +2499,7 @@ a:visited {
 .cta-one__moc {
   position: absolute;
   top: -45px;
-  left: -10%;
+  right: -10%;
   -webkit-animation: featureImgBounce 5s ease-in-out 0s infinite alternate;
           animation: featureImgBounce 5s ease-in-out 0s infinite alternate;
 }
@@ -2497,6 +2510,7 @@ a:visited {
 }
 .cta-one .block-title__title {
   letter-spacing: -.04em;
+  text-align: right;
 }
 .cta-one__icon {
   font-size: 62px;
@@ -2544,11 +2558,12 @@ a:visited {
 }
 .cta-two__moc {
   position: absolute;
-  top: -40px;
-  right: -35px;
+  top: -150px;
+  left: -35px;
   -webkit-animation: featureImgBounce 5s ease-in-out 0s infinite alternate;
           animation: featureImgBounce 5s ease-in-out 0s infinite alternate;
 }
+
 .cta-two .block-title {
   margin-top: 30px;
   margin-bottom: 35px;
@@ -2732,10 +2747,12 @@ a:visited {
   padding-top: 120px;
   padding-bottom: 115px;
   position: relative;
+  direction: ltr;
 }
 .app-shot-one__bg {
   position: absolute;
   bottom: 25%;
+  z-index: -1;
   left: 0;
 }
 .app-shot-one .container-fluid {

@@ -32,12 +32,13 @@
     </div><!-- /.preloader -->
     <div class="page-wrapper">
         <header class="site-header site-header__header-one ">
+
             <nav class="navbar navbar-expand-lg navbar-light header-navigation stricky">
                 <div class="container clearfix">
                     <!-- Brand and toggle get grouped for better mobile display -->
                     <div class="logo-box clearfix">
                         <a class="navbar-brand" href="index.html">
-                          <!--  <img src="https://trello-attachments.s3.amazonaws.com/5f4d599f0ffe7d49cceda0bf/5f4d599f0ffe7d49cceda0ec/447d6e9edfbaa8d4b9d809bb7621b985/logo_hak.png" class="main-logo" width="119" alt="حكواتي" />-->
+                            <!--  <img src="https://trello-attachments.s3.amazonaws.com/5f4d599f0ffe7d49cceda0bf/5f4d599f0ffe7d49cceda0ec/447d6e9edfbaa8d4b9d809bb7621b985/logo_hak.png" class="main-logo" width="119" alt="حكواتي" />-->
                         </a>
                         <button class="menu-toggler" data-target=".main-navigation">
                             <span class="fa fa-bars"></span>
@@ -48,7 +49,7 @@
                         <ul class=" one-page-scroll-menu navigation-box">
                             <li class="current scrollToLink">
                                 <a href="#banner">الرئيسية</a>
-                             
+
                             </li>
                             <li class="scrollToLink">
                                 <a href="#features">Features</a>
@@ -74,7 +75,7 @@
                         </ul>
                     </div><!-- /.navbar-collapse -->
                     <div class="right-side-box">
-                      <img src="https://trello-attachments.s3.amazonaws.com/5f4d599f0ffe7d49cceda0bf/5f4d599f0ffe7d49cceda0ec/447d6e9edfbaa8d4b9d809bb7621b985/logo_hak.png" class="main-logo" width="119" alt="حكواتي" />
+                        <img src="https://trello-attachments.s3.amazonaws.com/5f4d599f0ffe7d49cceda0bf/5f4d599f0ffe7d49cceda0ec/447d6e9edfbaa8d4b9d809bb7621b985/logo_hak.png" class="main-logo" width="119" alt="حكواتي" />
                     </div><!-- /.right-side-box -->
                 </div>
                 <!-- /.container -->
@@ -86,25 +87,34 @@
             <span class="banner-one__shape-3"></span>
             <span class="banner-one__shape-4"></span>
             <div class="container">
-                <div class="banner-one__moc">
-                    <img src="assets/images/mocs/main_2.png" alt="Awesome Image" />
-                </div><!-- /.banner-one__moc -->
+               <!--  <div class="banner-one__moc">
+                    <img src="assets/images/mocs/main_2.png" alt="Awesome Image" /> 
+                </div> --><!-- /.banner-one__moc -->
                 <div class="row">
+
                     <div class="col-xl-6 col-lg-8">
                         <div class="banner-one__content">
 
-                            <h3 class="banner-one__title">طورنا <br> <span>تطبيق</span> لك <br> لاحتياجك</h3><!-- /.banner-one__title -->
+                            <h3 class="banner-one__title">طورنا <br> <span>تطبيق</span> لك <br> .لاحتياجك</h3><!-- /.banner-one__title -->
                             <p class="banner-one__text">We are committed to providing our customers with <br> exceptional service while offering our employees the <br> best training.</p>
                             <!-- /.banner-one__text -->
+                            
                         </div><!-- /.banner-one__content -->
+                        
                     </div><!-- /.col-lg-6 -->
+                    <img src="assets/images/resources/logo_hak.png"  style= "width:550px;margin-left:-20px;height:330px;"alt="Awesome Image" /> 
+
+                    <div class="banner-one__moc">
+                    <img src="assets/images/mocs/main_2.png" alt="Awesome Image" /> 
+                </div>
+
                 </div><!-- /.row -->
             </div><!-- /.container -->
         </section><!-- /.banner-one -->
         <section class="service-one" id="features">
             <div class="container">
                 <div class="block-title text-center">
-                    <h2 class="block-title__title">Checkout  <span>Hakawati</span> <br> Features Below.</h2><!-- /.block-title__title -->
+                    <h2 class="block-title__title">Checkout <span>Hakawati</span> <br> Features Below.</h2><!-- /.block-title__title -->
                 </div><!-- /.block-title -->
                 <div class="row">
                     <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
@@ -146,56 +156,88 @@
                                 <a href="#" class="service-one__link"><i class="dimon-icon-right-arrow"></i></a>
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
-                    </div><!--/.col-lg-3 col-md-6 col-sm-12 -->
+                    </div>
+                    <!--/.col-lg-3 col-md-6 col-sm-12 -->
                 </div><!-- /.row -->
             </div><!-- /.container -->
         </section><!-- /.service-one -->
-    
+
         <section class="cta-one">
             <img src="assets/images/background/cta-one-bg.png" class="cta-one__bg" alt="Awesome Image" />
             <div class="container">
-                <img src="assets/images/mocs/cta-moc-1-1.png" class="cta-one__moc" alt="Awesome Image" />
+                <img src="assets/images/mocs/cta-moc-record.png" class="cta-one__moc" alt="Awesome Image" />
                 <div class="row justify-content-lg-end">
                     <div class="col-lg-6">
                         <div class="cta-one__content">
                             <i class="cta-one__icon dimon-icon-data1"></i>
                             <div class="block-title text-left">
-                              <h2 class="block-title__title">استمع بلا حدود بتصنيفات متعددة تناسب أذواق الجميع</h2><!-- /.block-title__title -->
-                          </div><!-- /.block-title -->
-                          <div class="cta-one__text">
-                              <p>مع حكوات اقضِ أمتع الأوقات بصحبة الكتب المسموعة التي تحب واستمتع بتجربة فريدة ومميزة بفضل الخصائص التي يوفرها التطبيق وأهمها:</p>
-                          </div><!-- /.cta-one__text -->
-                          <ul class="list-unstyled">
-                              <li><i class="fa fa-check"></i> زيادة أو تقليل السرعة وانت تستمع لأي كتاب صوتي لتحظى بتجربة ممتعة تناسبك</li>
-                              <li><i class="fa fa-check"></i>إمكانية مشاركة الكتب المقترحة وأفضل الكتب الصوتية مع الأصدقاء</li>
-                              <li><i class="fa fa-check"></i>حفظ الكتب المترقب صدورها في رف الكتب وتلقي الإشعارات فور توفر أي كتاب لتبقى على اطّلاع بأحدث الإصدارات</li>
-                          </ul><!-- /.list-unstyled -->
-                          <a href="#" class="thm-btn"><span>ابدأ الآن</span></a>
+                                <h2 class="block-title__title">سجّل</h2><!-- /.block-title__title -->
+                            </div><!-- /.block-title -->
+                            <div class="cta-one__text">
+                                <p>أهم مميزات التطبيق حيث سيستطيع الطفل تسجيل صوته ونشره</p>
+                            </div><!-- /.cta-one__text -->
+                            <ul class="list-unstyled">
+                                <li><i class="fa fa-check"></i> ١</li>
+                                <li><i class="fa fa-check"></i>٢</li>
+                                <li><i class="fa fa-check"></i>٣</li>
+                            </ul><!-- /.list-unstyled -->
                         </div><!-- /.cta-one__content -->
                     </div><!-- /.col-lg-6 -->
                 </div><!-- /.row -->
             </div><!-- /.container -->
         </section><!-- /.cta-one -->
+        
         <section class="cta-two">
             <div class="container">
-                <img src="assets/images/mocs/cta-moc-2-1.png" class="cta-two__moc" alt="Awesome Image" />
                 <div class="row">
+                <img src="assets/images/mocs/cta-moc-explor.png" class="cta-two__moc" alt="Awesome Image" />
+
                     <div class="col-lg-6">
+                        
                         <div class="cta-two__content">
+                            
                             <i class="cta-two__icon dimon-icon-data"></i>
                             <div class="block-title text-left">
-                                <h2 class="block-title__title">Interact with <span>Customers</span> <br> on Single Platform.</h2><!-- /.block-title__title -->
+                                <h2 class="block-title__title"> اكتشف <span></span> <br> </h2><!-- /.block-title__title -->
                             </div><!-- /.block-title -->
                             <div class="cta-two__text">
-                                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem Ipsum is simply dummy text of the printing laborum perspiciatis unde.</p>
-                                <p>Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit lorem ipsum anim id est.</p>
+                                <p>العثور على المزيد من القصص المدهشة</p>
+                                <p>قرقرقرقرقرقر</p>
                             </div><!-- /.cta-two__text -->
-                            <a href="#" class="thm-btn"><span>Get Started</span></a>
                         </div><!-- /.cta-two__content -->
+                        
+                    </div><!-- /.col-lg-6 -->
+                    
+                </div><!-- /.row -->
+                
+            </div><!-- /.container -->
+        </section><!-- /.cta-two -->
+        <section class="cta-one">
+            <img src="assets/images/background/cta-one-bg.png" class="cta-one__bg" alt="Awesome Image" />
+            <div class="container">
+                <img src="assets/images/mocs/cta-moc-record.png" class="cta-one__moc" alt="Awesome Image" />
+                <div class="row justify-content-lg-end">
+                    <div class="col-lg-6">
+                        <div class="cta-one__content">
+                            <i class="cta-one__icon dimon-icon-data1"></i>
+                            <div class="block-title text-left">
+                                <h2 class="block-title__title">سجّل</h2><!-- /.block-title__title -->
+                            </div><!-- /.block-title -->
+                            <div class="cta-one__text">
+                                <p>أهم مميزات التطبيق حيث سيستطيع الطفل تسجيل صوته ونشره</p>
+                            </div><!-- /.cta-one__text -->
+                            <ul class="list-unstyled">
+                                <li><i class="fa fa-check"></i> ١</li>
+                                <li><i class="fa fa-check"></i>٢</li>
+                                <li><i class="fa fa-check"></i>٣</li>
+                            </ul><!-- /.list-unstyled -->
+                        </div><!-- /.cta-one__content -->
                     </div><!-- /.col-lg-6 -->
                 </div><!-- /.row -->
             </div><!-- /.container -->
-        </section><!-- /.cta-two -->
+        </section><!-- /.cta-one -->
+        
+    
         <section class="app-shot-one" id="screenshots">
             <img src="assets/images/background/app-shot-bg.png" alt="Awesome Image" class="app-shot-one__bg" />
             <div class="container-fluid">
@@ -242,7 +284,7 @@
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
                             <div class="blog-one__content">
-                              <h6 class="text-center">رغد الشعلان</h6>
+                                <h6 class="text-center">رغد الشعلان</h6>
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
@@ -269,7 +311,7 @@
                                     <!-- /.fa fa-link --></a>
                             </div><!-- /.blog-one__image -->
                             <div class="blog-one__content">
-                                 <h6 class="text-center">غيداء العجاجي</h6>
+                                <h6 class="text-center">غيداء العجاجي</h6>
                             </div><!-- /.blog-one__content -->
                         </div><!-- /.blog-one__single -->
                     </div><!-- /.col-lg-4 -->
@@ -307,30 +349,22 @@
 
 
         <section class="mailchimp-one">
-              <div class="block-title text-center"> <h1>تواصل معنا</h1>
-                </div><!-- /.block-title -->
+            <div class="block-title text-center">
+                <h1>تواصل معنا</h1>
+            </div><!-- /.block-title -->
 
             <div>
-            <?php include 'ContactFrom_v2/email.php';?>
-            <style>
-               <?php include 'ContactFrom_v2/vendor/bootstrap/css/bootstrap.min.css';?>
-               <?php include 'ContactFrom_v2/css/arabic-fonts/stylesheet.css';?>
-               <?php include 'ContactFrom_v2/vendor/animate/animate.css';?>
-               <?php include 'ContactFrom_v2/vendor/css-hamburgers/hamburgers.min.css';?>
-               <?php include 'ContactFrom_v2/vendor/select2/select2.min.css';?>
-               <?php include 'ContactFrom_v2/css/util.css';?>
-               <?php include 'ContactFrom_v2/css/main.css';?>
+                <?php include 'ContactFrom_v2/email.php'; ?>
+                <style>
+                    <?php include 'ContactFrom_v2/vendor/bootstrap/css/bootstrap.min.css'; ?><?php include 'ContactFrom_v2/css/arabic-fonts/stylesheet.css'; ?><?php include 'ContactFrom_v2/vendor/animate/animate.css'; ?><?php include 'ContactFrom_v2/vendor/css-hamburgers/hamburgers.min.css'; ?><?php include 'ContactFrom_v2/vendor/select2/select2.min.css'; ?><?php include 'ContactFrom_v2/css/util.css'; ?><?php include 'ContactFrom_v2/css/main.css'; ?>
+                </style>
 
-            </style>
-
-            <script>
-               <?php include 'ContactFrom_v2/vendor/jquery/jquery-3.2.1.min.js';?>
-               <?php include 'ContactFrom_v2/vendor/bootstrap/js/popper.js';?>
-               <?php include 'ContactFrom_v2/vendor/bootstrap/js/bootstrap.min.js';?>
-               <?php include 'ContactFrom_v2/vendor/select2/select2.min.js';?>
-               <?php include 'ContactFrom_v2/js/main.js';?>
-
-
+                <script>
+                    <?php include 'ContactFrom_v2/vendor/jquery/jquery-3.2.1.min.js'; ?>
+                    <?php include 'ContactFrom_v2/vendor/bootstrap/js/popper.js'; ?>
+                    <?php include 'ContactFrom_v2/vendor/bootstrap/js/bootstrap.min.js'; ?>
+                    <?php include 'ContactFrom_v2/vendor/select2/select2.min.js'; ?>
+                    <?php include 'ContactFrom_v2/js/main.js'; ?>
                 </script>
 
                 <div>
