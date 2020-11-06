@@ -66,11 +66,12 @@
                                 <a href="#screenshots">واجهات التطبيق</a>
                             </li>
                             <li class="scrollToLink">
-                                <a href="#concatus">تواصل معنا</a>
+                                <a href="#team">المطورون</a>
                             </li>
                             <li class="scrollToLink">
-                                <a href="#news">المطورون</a>
+                                <a href="#concatus">تواصل معنا</a>
                             </li>
+                           
 
                         </ul>
                     </div><!-- /.navbar-collapse -->
@@ -180,30 +181,27 @@
             </div><!-- /.container -->
         </section><!-- /.cta-one -->
 
-        <section class="cta-two">
+        <section class="cta-2" id="cta-one">
+            <img src="assets/images/background/cta-one-bg.png" class="cta-2_bg" alt="Awesome Image" />
             <div class="container">
-                <div class="row">
-                    <img src="assets/images/mocs/cta-moc-explor.png" class="cta-two__moc" alt="Awesome Image" />
-
+                <img src="assets/images/mocs/cta-moc-record.png" class="cta-2_moc" alt="Awesome Image" />
+                <div class="row justify-content-lg-end">
                     <div class="col-lg-6">
-
-                        <div class="cta-two__content">
-
+                        <div class="cta-2_content">
                             <div class="block-title text-left">
-                                <h2 class="block-title__title"> اكتشف <span></span> <br> </h2><!-- /.block-title__title -->
+                                <h2 class="block-title__title">اكتشف</h2><!-- /.block-title__title -->
                             </div><!-- /.block-title -->
-                            <div class="cta-two__text">
-                                <p>اكتشف وتصفح لتجد العديد من القصص بمختلف التصنيفات!
-                                </p>
-                            </div><!-- /.cta-two__text -->
-                        </div><!-- /.cta-two__content -->
+                            <div class="cta-2_text">
+                                <p>اكتشف وتصفح لتجد العديد من القصص بمختلف التصنيفات</p>
+                            </div><!-- /.cta-one__text -->
 
+                        </div><!-- /.cta-one__content -->
                     </div><!-- /.col-lg-6 -->
-
                 </div><!-- /.row -->
-
             </div><!-- /.container -->
-        </section><!-- /.cta-two -->
+        </section><!-- /.cta-one -->
+
+  
         <section class="cta-one">
             <img src="assets/images/background/cta-one-bg.png" class="cta-one__bg" alt="Awesome Image" />
             <div class="container">
@@ -225,13 +223,13 @@
         </section><!-- /.cta-one -->
 
         <br><br><br>
-        <section class="app-shot-one" id="screenshots">
+        <section class="app-shot-one" >
             <img src="assets/images/background/app-shot-bg.png" alt="Awesome Image" class="app-shot-one__bg" />
             <div class="container-fluid">
                 <div class="block-title text-center">
                     <h2 class="block-title__title">واجهات التطبيق</h2><!-- /.block-title__title -->
                 </div><!-- /.block-title -->
-                <div class="app-shot-one__carousel owl-theme owl-carousel">
+                <div class="app-shot-one__carousel owl-theme owl-carousel" id="screenshots">
                     <div class="item">
                         <img src="assets/images/app-shots/register.png" alt="">
                     </div><!-- /.item -->
@@ -260,7 +258,7 @@
 
 
 
-        <section>
+        <section id="team">
             <div class="container">
                 <div class="row flex-center sm-no-flex">
 

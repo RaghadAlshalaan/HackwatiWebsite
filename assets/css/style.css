@@ -2581,6 +2581,85 @@ a:visited {
   padding: 18px 55.5px;
 }
 
+
+
+
+
+
+
+.cta-2 {
+  padding: 120px 0;
+  position: relative;
+  top: -50px;
+  direction: ltr;
+}
+.cta-2_bg {
+  position: absolute;
+  bottom: 4%;
+  right: 0;
+  z-index: -1;
+}
+
+.cta-2  .container {
+  position: relative;
+ 
+}
+.cta-2  .container:before {
+  content: '';
+  width: 0px;
+  height: 0px;
+  border-radius: 50%;
+  background-color: #f6fff7;
+  position: absolute;
+  top: -19%;
+  right: -12%;
+}
+.cta-2_moc {
+  position: absolute;
+  top: -95px;
+  left: -10%;
+  -webkit-animation: featureImgBounce 5s ease-in-out 0s infinite alternate;
+          animation: featureImgBounce 5s ease-in-out 0s infinite alternate;
+}
+.cta-2  .block-title {
+  margin-bottom: 0;
+  margin-top: 30px;
+  margin-bottom: 45px;
+}
+.cta-2 .block-title__title {
+  
+  letter-spacing: -.04em;
+  text-align: right;
+}
+
+.cta-2_text p {
+  margin: 0;
+  color: #74727a;
+  font-size: 24px;
+  line-height: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .cta-two {
   padding: 120px 0;
   background-color: #fefbf4;
