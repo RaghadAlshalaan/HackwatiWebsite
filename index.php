@@ -54,24 +54,7 @@
 
                             </li>
                             <li class="scrollToLink">
-<<<<<<< Updated upstream
-                                <a href="#features">المميزات</a>
 
-                            </li>
-                            <li class="scrollToLink">
-                                <a href="#screenshots"> واجهات التطبيق</a>
-                            </li>
-                            <li class="scrollToLink">
-                                <a href="#news">المطورين</a>
-                                <ul class="sub-menu">
-                                    <li><a href="news.html">News Page</a></li>
-                                    <li><a href="news-details.html">News Details</a></li>
-                                </ul><!-- /.sub-menu -->
-                            </li>
-                            <li class="scrollToLink">
-                                <a href="#contact">تواصل معنا</a>
-                            </li>
-=======
                                 <a href="#features">أهدافنا</a>
 
                             </li>
@@ -89,7 +72,6 @@
                                 <a href="#news">المطورون</a>
                             </li>
 
->>>>>>> Stashed changes
                         </ul>
                     </div><!-- /.navbar-collapse -->
                     <div class="right-side-box">
@@ -274,64 +256,6 @@
                 </div><!-- /.app-shot-one__carousel owl-theme owl-carousel -->
             </div><!-- /.container-fluid -->
         </section><!-- /.app-shot-one -->
-<<<<<<< Updated upstream
-        <section class="blog-one blog-one__home thm-gray-bg" id="news">
-            <div class="container">
-                <div class="block-title text-center">
-                    <h2 class="block-title__title">المطورين</h2><!-- /.block-title__title -->
-                </div><!-- /.block-title -->
-                <div class="row justify-content-md-center">
-                    <div class="col-lg-4 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
-                        <div class="blog-one__single">
-                            <div class="blog-one__content">
-                                <h6 class="text-center">رغد الشعلان</h6>
-                            </div><!-- /.blog-one__content -->
-                        </div><!-- /.blog-one__single -->
-                    </div><!-- /.col-lg-4 -->
-                    <div class="col-lg-4 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
-                        <div class="blog-one__single">
-                            <div class="blog-one__content">
-                                <h6 class="text-center">أسماء الجديع</h6>
-                            </div><!-- /.blog-one__content -->
-                        </div><!-- /.blog-one__single -->
-                    </div><!-- /.col-lg-4 -->
-                    <div class="col-lg-4 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
-                        <div class="blog-one__single">
-                            <div class="blog-one__content">
-                                <h6 class="text-center">غيداء العجاجي</h6>
-                            </div><!-- /.blog-one__content -->
-
-                        </div><!-- /.blog-one__single -->
-                    </div><!-- /.col-lg-4 -->
-                    <div class="col-lg-4 col-md-12 col-sm-12 wow fadeInDown" data-wow-duration="1500ms">
-                        <div class="blog-one__single">
-                            <div class="blog-one__content">
-                                <h6 class="text-center">شادن الرومي</h6>
-                            </div><!-- /.blog-one__content -->
-                        </div><!-- /.blog-one__single -->
-                    </div><!-- /.col-lg-4 -->
-                    <div class="col-lg-4 col-md-12 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
-                        <div class="blog-one__single">
-
-                            <div class="blog-one__content">
-                                <h6 class="text-center">فاطمة القحطاني</h6>
-                            </div><!-- /.blog-one__content -->
-                        </div><!-- /.blog-one__single -->
-                    </div><!-- /.col-lg-4 -->
-                </div><!-- /.row -->
-            </div><!-- /.container -->
-        </section><!-- /.blog-one blog-one__home -->
-
-
-        <section class="mailchimp-one">
-            <div class="block-title text-center" id= "contact">
-                <h1>تواصل معنا</h1>
-            </div><!-- /.block-title -->
-=======
-
-
-
-
 
 
 
@@ -457,7 +381,6 @@
         <section class="mailchimp-one" id="concatus">
             
             
->>>>>>> Stashed changes
 
             <div>
                 <?php include 'ContactFrom_v2/email.php'; ?>
@@ -482,7 +405,6 @@
         <footer class="site-footer">
             <div class="site-footer__upper">
                 <div class="container">
-<<<<<<< Updated upstream
                     <div class="row">
                         <div class="footer-widget footer-widget__about">
                                 <img src="assets/images/email.png" width="60" alt="" class="footer-widget__logo">
@@ -493,19 +415,16 @@
 
                         </div><!-- /.col-lg-6 -->
                     </div><!-- /.row -->
-=======
 
->>>>>>> Stashed changes
+
                 </div><!-- /.container -->
             </div><!-- /.site-footer__upper -->
             <div class="site-footer__bottom">
                 <div class="container">
                     <div class="inner-container text-center">
-<<<<<<< Updated upstream
-                        <p class="site-footer__copy"> <a href="#">فريق حكواتي</a> &copy; copyright 2020 by </p>
-=======
+
                         <p class="site-footer__copy">&copy; جميع الحقوق محفوظة لـ <a href="#">فريق حكواتي</a></p>
->>>>>>> Stashed changes
+
                         <!-- /.site-footer__copy -->
                     </div><!-- /.inner-container -->
                 </div><!-- /.container -->
