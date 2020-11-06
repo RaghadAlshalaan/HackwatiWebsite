@@ -241,15 +241,7 @@ iframe {
   width: 100%;
 }
 
-.contact2-form-title {
-  display: block;
-  font-family: "Frutiger LT Arabic";
-  font-size: 39px;
-  color: #333333;
-  line-height: 1.2;
-  text-align: center;
-  padding-bottom: 90px;
-}
+
 
 /*------------------------------------------------------------------
 [  ]*/
@@ -258,7 +250,7 @@ iframe {
   width: 100%;
   position: relative;
 
-  border-bottom: 2px solid #adadad;
+  border-bottom: 2px solid #fcd50b;
   margin-bottom: 37px;
   direction: rtl;
   justify-content: flex-start;
@@ -271,7 +263,7 @@ iframe {
   direction: rtl;
   font-family: "Frutiger LT Arabic";
   font-size: 15px;
-  color: #555555;
+  color: #fcd50b;
   line-height: 1.2;
 }
 
@@ -303,10 +295,10 @@ iframe {
   transition: all 0.4s;
 
   background: rgba(219, 21, 99, 1);
-  background: -webkit-linear-gradient(45deg, #d5007d, #e53935);
-  background: -o-linear-gradient(45deg, #d5007d, #e53935);
-  background: -moz-linear-gradient(45deg, #d5007d, #e53935);
-  background: linear-gradient(45deg, #d5007d, #e53935);
+  background: -webkit-linear-gradient(45deg, #fcd50b, #fcb556);
+  background: -o-linear-gradient(45deg, #fcd50b, #fcb556);
+  background: -moz-linear-gradient(45deg, #fcd50b, #fcb556);
+  background: linear-gradient(45deg, #fcd50b, #fcb556);
   justify-content: flex-end;
   align-items: flex-end;
 }
@@ -399,11 +391,12 @@ textarea.input2 + .focus-input2::after {
   z-index: -1;
   width: 300%;
   height: 100%;
-  /* background: rgba(219,21,99,1);
-  background: -webkit-linear-gradient(-135deg, #d5007d, #e53935, #d5007d, #e53935);
-  background: -o-linear-gradient(-135deg, #d5007d, #e53935, #d5007d, #e53935);
-  background: -moz-linear-gradient(-135deg, #d5007d, #e53935, #d5007d, #e53935);
-  background: linear-gradient(-135deg, #d5007d, #e53935, #d5007d, #e53935);*/
+
+  background: rgba(219,21,99,1);
+  background: -webkit-linear-gradient(-135deg, #fcd50b, #fcb556, #fcd50b, #fcb556);
+  background: -o-linear-gradient(-135deg, #fcd50b, #fcb556, #fcd50b, #fcb556);
+  background: -moz-linear-gradient(-135deg, #fcd50b, #fcb556, #fcd50b, #fcb556);
+  background: linear-gradient(-135deg, #fcd50b, #fcb556, #fcd50b, #fcb556);
   top: 0;
   left: -100%;
 

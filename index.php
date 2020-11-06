@@ -13,6 +13,8 @@
 
     <!-- plugin scripts -->
     <link href="https://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900&display=swap" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+
     <link rel="stylesheet" href="assets/css/animate.min.css">
     <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
     <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
@@ -52,6 +54,7 @@
 
                             </li>
                             <li class="scrollToLink">
+<<<<<<< Updated upstream
                                 <a href="#features">المميزات</a>
 
                             </li>
@@ -68,6 +71,25 @@
                             <li class="scrollToLink">
                                 <a href="#contact">تواصل معنا</a>
                             </li>
+=======
+                                <a href="#features">أهدافنا</a>
+
+                            </li>
+
+                            <li class="scrollToLink">
+                                <a href="#cta-one">أهم المميزات</a>
+                            </li>
+                            <li class="scrollToLink">
+                                <a href="#screenshots">واجهات التطبيق</a>
+                            </li>
+                            <li class="scrollToLink">
+                                <a href="#concatus">تواصل معنا</a>
+                            </li>
+                            <li class="scrollToLink">
+                                <a href="#news">المطورون</a>
+                            </li>
+
+>>>>>>> Stashed changes
                         </ul>
                     </div><!-- /.navbar-collapse -->
                     <div class="right-side-box">
@@ -83,26 +105,27 @@
             <span class="banner-one__shape-3"></span>
             <span class="banner-one__shape-4"></span>
             <div class="container">
-               <!--  <div class="banner-one__moc">
+                <!--  <div class="banner-one__moc">
                     <img src="assets/images/mocs/main_2.png" alt="Awesome Image" /> 
-                </div> --><!-- /.banner-one__moc -->
+                </div> -->
+                <!-- /.banner-one__moc -->
                 <div class="row">
 
                     <div class="col-xl-6 col-lg-8">
                         <div class="banner-one__content">
-
-                            <h3 class="banner-one__title">طورنا <br> <span>تطبيق</span> لك <br> .لاحتياجك</h3><!-- /.banner-one__title -->
-                            <p class="banner-one__text">We are committed to providing our customers with <br> exceptional service while offering our employees the <br> best training.</p>
+                            <br><br><br><br>
+                            <h3 class="banner-one__title">طفل <span>يحكي</span> لطفل </h3><!-- /.banner-one__title -->
+                            <p class="banner-one__text">طورنا حكواتي لتشجيع الأطفال على القراءة وتأليف القصص <br>من خلال تسجيل قصصهم ومشاركتها مع الآخرين والاستماع لقصص بمختلف التصنيفات </p>
                             <!-- /.banner-one__text -->
-                            
+
                         </div><!-- /.banner-one__content -->
-                        
+
                     </div><!-- /.col-lg-6 -->
-                    <img src="assets/images/resources/logo_hak.png"  style= "width:550px;margin-left:-20px;height:330px;"alt="Awesome Image" /> 
+                    <img src="assets/images/resources/logo_hak.png" style="width:550px;margin-left:-20px;height:330px;" alt="Awesome Image" />
 
                     <div class="banner-one__moc">
-                    <img src="assets/images/mocs/main_2.png" alt="Awesome Image" /> 
-                </div>
+                        <img src="assets/images/mocs/main_2.png" alt="Awesome Image" />
+                    </div>
 
                 </div><!-- /.row -->
             </div><!-- /.container -->
@@ -110,16 +133,17 @@
         <section class="service-one" id="features">
             <div class="container">
                 <div class="block-title text-center">
-                    <h2 class="block-title__title">Checkout <span>Hakawati</span> <br> Features Below.</h2><!-- /.block-title__title -->
+                    <h2 class="block-title__title">أهدافنا</h2><!-- /.block-title__title -->
                 </div><!-- /.block-title -->
                 <div class="row">
                     <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="service-one__single text-center">
                             <div class="service-one__inner">
-                                <i class="service-one__icon dimon-icon-laptop"></i>
-                                <h3><a href="#">Interactive </a></h3>
-                                <p>Straight Facts</p>
-                                <a href="#" class="service-one__link"><i class="dimon-icon-right-arrow"></i></a>
+                                <i class="service-one__icon dimon-icon-book"></i>
+
+                                <h3><a href="#"> إثراء المحتوى العربي </a></h3>
+                                <!--                                 <p>Straight Facts</p>
+ -->
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
                     </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
@@ -127,9 +151,7 @@
                         <div class="service-one__single text-center">
                             <div class="service-one__inner">
                                 <i class="service-one__icon dimon-icon-presentation"></i>
-                                <h3><a href="#">Challenging</a></h3>
-                                <p>Stay in the Loop</p>
-                                <a href="#" class="service-one__link"><i class="dimon-icon-right-arrow"></i></a>
+                                <h3><a href="#"> غرس ثقافة القراءة</a></h3>
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
                     </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
@@ -137,9 +159,7 @@
                         <div class="service-one__single text-center">
                             <div class="service-one__inner">
                                 <i class="service-one__icon dimon-icon-target"></i>
-                                <h3><a href="#">Educational</a></h3>
-                                <p>Where it Begins</p>
-                                <a href="#" class="service-one__link"><i class="dimon-icon-right-arrow"></i></a>
+                                <h3><a href="#"> تحفيز الخيال والتأليف </a></h3>
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
                     </div><!-- /.col-lg-3 col-md-6 col-sm-12 -->
@@ -147,9 +167,8 @@
                         <div class="service-one__single text-center">
                             <div class="service-one__inner">
                                 <i class="service-one__icon dimon-icon-visualization"></i>
-                                <h3><a href="#"> Arabic audiobook </a></h3>
+                                <h3><a href="#"> تعزيز مهارة الاستماع </a></h3>
                                 <!-- <p>Lorem ipsum is are <br> many variations of <br> pass of majority.</p> -->
-                                <a href="#" class="service-one__link"><i class="dimon-icon-right-arrow"></i></a>
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
                     </div>
@@ -158,54 +177,49 @@
             </div><!-- /.container -->
         </section><!-- /.service-one -->
 
-        <section class="cta-one">
+        <section class="cta-one" id="cta-one">
             <img src="assets/images/background/cta-one-bg.png" class="cta-one__bg" alt="Awesome Image" />
             <div class="container">
                 <img src="assets/images/mocs/cta-moc-record.png" class="cta-one__moc" alt="Awesome Image" />
                 <div class="row justify-content-lg-end">
                     <div class="col-lg-6">
                         <div class="cta-one__content">
-                            <i class="cta-one__icon dimon-icon-data1"></i>
                             <div class="block-title text-left">
                                 <h2 class="block-title__title">سجّل</h2><!-- /.block-title__title -->
                             </div><!-- /.block-title -->
                             <div class="cta-one__text">
-                                <p>أهم مميزات التطبيق حيث سيستطيع الطفل تسجيل صوته ونشره</p>
+                                <p>أطلق عنان خيالك وسجل قصتك وانشرها
+                                    ليسمعها الجميع!</p>
                             </div><!-- /.cta-one__text -->
-                            <ul class="list-unstyled">
-                                <li><i class="fa fa-check"></i> ١</li>
-                                <li><i class="fa fa-check"></i>٢</li>
-                                <li><i class="fa fa-check"></i>٣</li>
-                            </ul><!-- /.list-unstyled -->
+
                         </div><!-- /.cta-one__content -->
                     </div><!-- /.col-lg-6 -->
                 </div><!-- /.row -->
             </div><!-- /.container -->
         </section><!-- /.cta-one -->
-        
+
         <section class="cta-two">
             <div class="container">
                 <div class="row">
-                <img src="assets/images/mocs/cta-moc-explor.png" class="cta-two__moc" alt="Awesome Image" />
+                    <img src="assets/images/mocs/cta-moc-explor.png" class="cta-two__moc" alt="Awesome Image" />
 
                     <div class="col-lg-6">
-                        
+
                         <div class="cta-two__content">
-                            
-                            <i class="cta-two__icon dimon-icon-data"></i>
+
                             <div class="block-title text-left">
                                 <h2 class="block-title__title"> اكتشف <span></span> <br> </h2><!-- /.block-title__title -->
                             </div><!-- /.block-title -->
                             <div class="cta-two__text">
-                                <p>العثور على المزيد من القصص المدهشة</p>
-                                <p>قرقرقرقرقرقر</p>
+                                <p>اكتشف وتصفح لتجد العديد من القصص بمختلف التصنيفات!
+                                </p>
                             </div><!-- /.cta-two__text -->
                         </div><!-- /.cta-two__content -->
-                        
+
                     </div><!-- /.col-lg-6 -->
-                    
+
                 </div><!-- /.row -->
-                
+
             </div><!-- /.container -->
         </section><!-- /.cta-two -->
         <section class="cta-one">
@@ -215,30 +229,25 @@
                 <div class="row justify-content-lg-end">
                     <div class="col-lg-6">
                         <div class="cta-one__content">
-                            <i class="cta-one__icon dimon-icon-data1"></i>
                             <div class="block-title text-left">
-                                <h2 class="block-title__title">سجّل</h2><!-- /.block-title__title -->
+                                <h2 class="block-title__title">استمع</h2><!-- /.block-title__title -->
                             </div><!-- /.block-title -->
                             <div class="cta-one__text">
-                                <p>أهم مميزات التطبيق حيث سيستطيع الطفل تسجيل صوته ونشره</p>
+                                <p>استمع قصة من اختيارك ولتبدأ برحلة ممتعة وشيقة!</p>
                             </div><!-- /.cta-one__text -->
-                            <ul class="list-unstyled">
-                                <li><i class="fa fa-check"></i> ١</li>
-                                <li><i class="fa fa-check"></i>٢</li>
-                                <li><i class="fa fa-check"></i>٣</li>
-                            </ul><!-- /.list-unstyled -->
+
                         </div><!-- /.cta-one__content -->
                     </div><!-- /.col-lg-6 -->
                 </div><!-- /.row -->
             </div><!-- /.container -->
         </section><!-- /.cta-one -->
-        
-    
+
+        <br><br><br>
         <section class="app-shot-one" id="screenshots">
             <img src="assets/images/background/app-shot-bg.png" alt="Awesome Image" class="app-shot-one__bg" />
             <div class="container-fluid">
                 <div class="block-title text-center">
-                    <h2 class="block-title__title">Checkout Our App <br> <span>Interface</span> Screenshots.</h2><!-- /.block-title__title -->
+                    <h2 class="block-title__title">واجهات التطبيق</h2><!-- /.block-title__title -->
                 </div><!-- /.block-title -->
                 <div class="app-shot-one__carousel owl-theme owl-carousel">
                     <div class="item">
@@ -265,6 +274,7 @@
                 </div><!-- /.app-shot-one__carousel owl-theme owl-carousel -->
             </div><!-- /.container-fluid -->
         </section><!-- /.app-shot-one -->
+<<<<<<< Updated upstream
         <section class="blog-one blog-one__home thm-gray-bg" id="news">
             <div class="container">
                 <div class="block-title text-center">
@@ -317,6 +327,137 @@
             <div class="block-title text-center" id= "contact">
                 <h1>تواصل معنا</h1>
             </div><!-- /.block-title -->
+=======
+
+
+
+
+
+
+
+
+        <section>
+            <div class="container">
+                <div class="row flex-center sm-no-flex">
+
+                    <div class="pull-right sm-no-float col-md-8">
+                        <ul class="team-members">
+                            <!-- single member row starts -->
+                            <li class="clearfix">
+
+                            <div class="member-details">
+                                    <div>
+                                        <img src="assets/images/asma/Untitled-2 copy.png" alt="UI Designer">
+                                        <div class="member-info">
+                                            <h3>2</h3>
+                                            <p>
+                                                <a href="http://linkedin.com/in/asma-aljudaya-312b8a1aa">
+                                                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                                                </a>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="member-details">
+                                    <div>
+                                        <img src="assets/images/asma/Untitled-2 copy.png" alt="UI Designer">
+                                        <div class="member-info">
+                                            <h3>2</h3>
+                                            <p>
+                                                <a href="http://linkedin.com/in/asma-aljudaya-312b8a1aa">
+                                                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                                                </a>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                             
+
+
+                            </li><!-- /single member row ends -->
+
+                            <!-- single member row starts -->
+                            <li class="clearfix">
+                            <div class="member-details">
+                                    <div>
+                                        <img src="assets/images/asma/Untitled-2 copy.png" alt="UI Designer">
+                                        <div class="member-info">
+                                            <h3>4</h3>
+                                            <p>
+                                                <a href="http://linkedin.com/in/asma-aljudaya-312b8a1aa">
+                                                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                                                    </a>
+
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="member-details">
+                                    <div>
+                                        <img src="assets/images/asma/Untitled-2 copy.png" alt="UI Designer">
+                                        <div class="member-info">
+                                            <h3>5</h3>
+                                            <p>
+                                                <a href="http://linkedin.com/in/asma-aljudaya-312b8a1aa">
+                                                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                                                    </a>
+
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                            </li><!-- /single member row ends -->
+
+                            <!-- single member row starts -->
+                            <li class="clearfix">
+
+
+                                  <div class="member-details">
+                                    <div>
+                                        <img src="assets/images/asma/Untitled-2 copy.png" alt="UI Designer">
+                                        <div class="member-info">
+                                            <h3>6</h3>
+                                            <p>
+                                                <a href="http://linkedin.com/in/asma-aljudaya-312b8a1aa">
+                                                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                                                    </a>
+
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                            </li><!-- /single member row ends -->
+
+                        </ul><!-- /end team-photos -->
+                    </div><!-- /end col-md-8 -->
+
+                    <div class="pull-left col-md-4 sm-text-center">
+                        <div class="team-overview">
+                            <h2>عن فريق حكواتي</h2>
+                            <br><br>
+                            <p>
+                                <div>نلقحخح قتثر نثتتا نتزلقيزك نتزيتدكق نتزبثت</div>
+                            </p>
+                        </div>
+                    </div><!-- /end col-md-4 -->
+                </div><!-- /end row -->
+            </div><!-- /end container -->
+        </section>
+<br><br><br><br>
+
+<h2 class="block-title__title">تواصل معنا</h2>
+
+        <section class="mailchimp-one" id="concatus">
+            
+            
+>>>>>>> Stashed changes
 
             <div>
                 <?php include 'ContactFrom_v2/email.php'; ?>
@@ -336,9 +477,12 @@
                 </div><!-- /.mc-form__response -->
             </div><!-- /.container -->
         </section><!-- /.mailchimp-one -->
+
+
         <footer class="site-footer">
             <div class="site-footer__upper">
                 <div class="container">
+<<<<<<< Updated upstream
                     <div class="row">
                         <div class="footer-widget footer-widget__about">
                                 <img src="assets/images/email.png" width="60" alt="" class="footer-widget__logo">
@@ -349,12 +493,19 @@
 
                         </div><!-- /.col-lg-6 -->
                     </div><!-- /.row -->
+=======
+
+>>>>>>> Stashed changes
                 </div><!-- /.container -->
             </div><!-- /.site-footer__upper -->
             <div class="site-footer__bottom">
                 <div class="container">
                     <div class="inner-container text-center">
+<<<<<<< Updated upstream
                         <p class="site-footer__copy"> <a href="#">فريق حكواتي</a> &copy; copyright 2020 by </p>
+=======
+                        <p class="site-footer__copy">&copy; جميع الحقوق محفوظة لـ <a href="#">فريق حكواتي</a></p>
+>>>>>>> Stashed changes
                         <!-- /.site-footer__copy -->
                     </div><!-- /.inner-container -->
                 </div><!-- /.container -->
