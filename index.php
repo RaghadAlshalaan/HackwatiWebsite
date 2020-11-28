@@ -22,6 +22,8 @@
     <link rel="stylesheet" href="ContactFrom_v2/css/arabic-fonts/stylesheet.css">
     <link rel="stylesheet" href="assets/css/swiper.min.css">
     <link rel="stylesheet" href="assets/plugins/dimon-icons/style.css">
+    <link rel="stylesheet" href="assets/plugins/dimon-icons/icofont/icofont.min.css">
+
 
     <!-- template styles -->
     <link rel="stylesheet" href="assets/css/style.css">
@@ -71,7 +73,7 @@
                             <li class="scrollToLink">
                                 <a href="#concatus">تواصل معنا</a>
                             </li>
-                           
+
 
                         </ul>
                     </div><!-- /.navbar-collapse -->
@@ -122,7 +124,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="service-one__single text-center">
                             <div class="service-one__inner">
-                                <i class="service-one__icon dimon-icon-book"></i>
+                                <i class="service-one__icon icofont-heart"></i>
 
                                 <h3><a href="#"> إثراء المحتوى العربي </a></h3>
                                 <!--                                 <p>Straight Facts</p>
@@ -133,7 +135,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInDown" data-wow-duration="1500ms">
                         <div class="service-one__single text-center">
                             <div class="service-one__inner">
-                                <i class="service-one__icon dimon-icon-presentation"></i>
+                                <i class="service-one__icon icofont-learn"></i>
                                 <h3><a href="#"> غرس ثقافة القراءة</a></h3>
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
@@ -141,7 +143,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="service-one__single text-center">
                             <div class="service-one__inner">
-                                <i class="service-one__icon dimon-icon-target"></i>
+                                <i class="service-one__icon icofont-light-bulb"></i>
                                 <h3><a href="#"> تحفيز الخيال والتأليف </a></h3>
                             </div><!-- /.service-one__inner -->
                         </div><!-- /.service-one__single -->
@@ -149,7 +151,7 @@
                     <div class="col-lg-3 col-md-6 col-sm-12 wow fadeInDown" data-wow-duration="1500ms">
                         <div class="service-one__single text-center">
                             <div class="service-one__inner">
-                                <i class="service-one__icon dimon-icon-visualization"></i>
+                                <i class="service-one__icon icofont-listening"></i>
                                 <h3><a href="#"> تعزيز مهارة الاستماع </a></h3>
                                 <!-- <p>Lorem ipsum is are <br> many variations of <br> pass of majority.</p> -->
                             </div><!-- /.service-one__inner -->
@@ -163,7 +165,7 @@
         <section class="cta-one" id="cta-one">
             <img src="assets/images/background/cta-one-bg.png" class="cta-one__bg" alt="Awesome Image" />
             <div class="container">
-                <img src="assets/images/mocs/cta-moc-record.png" class="cta-one__moc" alt="Awesome Image" />
+                <img src="assets/images/asma/record__.png" class="cta-one__moc" alt="Awesome Image" />
                 <div class="row justify-content-lg-end">
                     <div class="col-lg-6">
                         <div class="cta-one__content">
@@ -184,7 +186,7 @@
         <section class="cta-2" id="cta-one">
             <img src="assets/images/background/cta-one-bg.png" class="cta-2_bg" alt="Awesome Image" />
             <div class="container">
-                <img src="assets/images/mocs/cta-moc-record.png" class="cta-2_moc" alt="Awesome Image" />
+                <img src="assets/images/asma/explore__.png" class="cta-2_moc" alt="Awesome Image" />
                 <div class="row justify-content-lg-end">
                     <div class="col-lg-6">
                         <div class="cta-2_content">
@@ -201,11 +203,11 @@
             </div><!-- /.container -->
         </section><!-- /.cta-one -->
 
-  
+
         <section class="cta-one">
             <img src="assets/images/background/cta-one-bg.png" class="cta-one__bg" alt="Awesome Image" />
             <div class="container">
-                <img src="assets/images/mocs/cta-moc-record.png" class="cta-one__moc" alt="Awesome Image" />
+                <img src="assets/images/asma/listen__.png" class="cta-one__moc" alt="Awesome Image" />
                 <div class="row justify-content-lg-end">
                     <div class="col-lg-6">
                         <div class="cta-one__content">
@@ -223,7 +225,7 @@
         </section><!-- /.cta-one -->
 
         <br><br><br>
-        <section class="app-shot-one" >
+        <section class="app-shot-one">
             <img src="assets/images/background/app-shot-bg.png" alt="Awesome Image" class="app-shot-one__bg" />
             <div class="container-fluid">
                 <div class="block-title text-center">
@@ -267,11 +269,23 @@
                             <!-- single member row starts -->
                             <li class="clearfix">
 
-                            <div class="member-details">
-                                    <div>
-                                        <img src="assets/images/asma/Untitled-2 copy.png" alt="UI Designer">
+                                <div class="member-details">
+                                    <div style="background-color: #faa1a9; ">
+                                        <img src="assets/images/asma/fatimah_.png" alt="UI Designer">
                                         <div class="member-info">
-                                            <h3>2</h3>
+                                            <p>
+                                                <a href="https://www.linkedin.com/in/fatimah-alqahtani-36150b178">
+                                                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                                                </a>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="member-details">
+                                    <div style="background-color: #a1dfd0;">
+                                        <img src="assets/images/asma/asma_.png" alt="UI Designer">
+                                        <div class="member-info">
                                             <p>
                                                 <a href="http://linkedin.com/in/asma-aljudaya-312b8a1aa">
                                                     <i class="fa fa-linkedin" aria-hidden="true"></i>
@@ -280,37 +294,22 @@
                                         </div>
                                     </div>
                                 </div>
-                                
+
+
+
+
+                            </li><!-- /single member row ends -->
+
+                            <!-- single member row starts -->
+                            <li class="clearfix">
                                 <div class="member-details">
-                                    <div>
-                                        <img src="assets/images/asma/Untitled-2 copy.png" alt="UI Designer">
+                                    <div style="background-color:  #fcd50b;">
+                                        <img src="assets/images/asma/raghad.png" alt="UI Designer">
                                         <div class="member-info">
-                                            <h3>2</h3>
                                             <p>
-                                                <a href="http://linkedin.com/in/asma-aljudaya-312b8a1aa">
+                                                <a href="https://www.linkedin.com/in/raghad-alshaalan-a64689178">
                                                     <i class="fa fa-linkedin" aria-hidden="true"></i>
                                                 </a>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div>
-
-                             
-
-
-                            </li><!-- /single member row ends -->
-
-                            <!-- single member row starts -->
-                            <li class="clearfix">
-                            <div class="member-details">
-                                    <div>
-                                        <img src="assets/images/asma/Untitled-2 copy.png" alt="UI Designer">
-                                        <div class="member-info">
-                                            <h3>4</h3>
-                                            <p>
-                                                <a href="http://linkedin.com/in/asma-aljudaya-312b8a1aa">
-                                                    <i class="fa fa-linkedin" aria-hidden="true"></i>
-                                                    </a>
 
                                             </p>
                                         </div>
@@ -318,14 +317,13 @@
                                 </div>
 
                                 <div class="member-details">
-                                    <div>
-                                        <img src="assets/images/asma/Untitled-2 copy.png" alt="UI Designer">
+                                    <div style="background-color: #a5d851;">
+                                        <img src="assets/images/asma/shaden_.png " alt="UI Designer">
                                         <div class="member-info">
-                                            <h3>5</h3>
                                             <p>
-                                                <a href="http://linkedin.com/in/asma-aljudaya-312b8a1aa">
+                                                <a href="http://www.linkedin.com/in/shaden-alromi">
                                                     <i class="fa fa-linkedin" aria-hidden="true"></i>
-                                                    </a>
+                                                </a>
 
                                             </p>
                                         </div>
@@ -339,15 +337,14 @@
                             <li class="clearfix">
 
 
-                                  <div class="member-details">
-                                    <div>
-                                        <img src="assets/images/asma/Untitled-2 copy.png" alt="UI Designer">
+                                <div class="member-details">
+                                    <div style="background-color: #fcb556;">
+                                        <img src="assets/images/asma/ghaida_.png" alt="UI Designer">
                                         <div class="member-info">
-                                            <h3>6</h3>
                                             <p>
-                                                <a href="http://linkedin.com/in/asma-aljudaya-312b8a1aa">
+                                                <a href="http://linkedin.com/in/ghedaa-alajaji-86ab39192">
                                                     <i class="fa fa-linkedin" aria-hidden="true"></i>
-                                                    </a>
+                                                </a>
 
                                             </p>
                                         </div>
@@ -362,23 +359,23 @@
 
                     <div class="pull-left col-md-4 sm-text-center">
                         <div class="team-overview">
-                            <h2>عن فريق حكواتي</h2>
+                            <h2> فريق حكواتي</h2>
                             <br><br>
                             <p>
-                                <div>نلقحخح قتثر نثتتا نتزلقيزك نتزيتدكق نتزبثت</div>
+                                <div></div>
                             </p>
                         </div>
                     </div><!-- /end col-md-4 -->
                 </div><!-- /end row -->
             </div><!-- /end container -->
         </section>
-<br><br><br><br>
+        <br><br><br><br>
 
-<h2 class="block-title__title">تواصل معنا</h2>
+        <h2 class="block-title__title">تواصل معنا</h2>
 
         <section class="mailchimp-one" id="concatus">
-            
-            
+
+
 
             <div>
                 <?php include 'ContactFrom_v2/email.php'; ?>
@@ -405,29 +402,29 @@
                 <div class="container">
                     <div class="row">
                         <div class="footer-widget footer-widget__about">
-                                <img src="assets/images/email.png" width="60" alt="" class="footer-widget__logo">
-                            </div><!-- /.footer-widget -->
-                            <div style="padding:20px">
-                                <h6>HakawatiApp1@gmail.com</h6><!-- /.footer-widget__title -->
-                            </div><!-- /.footer-widget -->
+                            <img src="assets/images/email.png" width="60" alt="" class="footer-widget__logo">
+                        </div><!-- /.footer-widget -->
+                        <div style="padding:20px">
+                            <h6>HakawatiApp1@gmail.com</h6><!-- /.footer-widget__title -->
+                        </div><!-- /.footer-widget -->
 
-                        </div><!-- /.col-lg-6 -->
-                    </div><!-- /.row -->
+                    </div><!-- /.col-lg-6 -->
+                </div><!-- /.row -->
 
 
-                </div><!-- /.container -->
-            </div><!-- /.site-footer__upper -->
-            <div class="site-footer__bottom">
-                <div class="container">
-                    <div class="inner-container text-center">
+            </div><!-- /.container -->
+    </div><!-- /.site-footer__upper -->
+    <div class="site-footer__bottom">
+        <div class="container">
+            <div class="inner-container text-center">
 
-                        <p class="site-footer__copy">&copy; جميع الحقوق محفوظة لـ <a href="#">فريق حكواتي</a></p>
+                <p class="site-footer__copy">&copy; جميع الحقوق محفوظة لـ <a href="#">فريق حكواتي</a></p>
 
-                        <!-- /.site-footer__copy -->
-                    </div><!-- /.inner-container -->
-                </div><!-- /.container -->
-            </div><!-- /.site-footer__bottom -->
-        </footer><!-- /.site-footer -->
+                <!-- /.site-footer__copy -->
+            </div><!-- /.inner-container -->
+        </div><!-- /.container -->
+    </div><!-- /.site-footer__bottom -->
+    </footer><!-- /.site-footer -->
     </div><!-- /.page-wrapper -->
 
 

@@ -2961,10 +2961,12 @@ member-info a:hover {
 /*  Team Starts */
 .team-members {
   transform: rotate(-45deg);
+  
 }
 .team-members li > div {
 	float: left;
-	width: 25%;
+  width: 25%;
+  
 }
 
 .team-members li:nth-child(2) > div:first-child {
@@ -2976,8 +2978,8 @@ member-info a:hover {
 }
 
 .member-details > div {
-  border-radius: 25%;
-	background-color: #eee;
+  border-radius: 30%;
+	background-color: rgb(245, 245, 245);
 	margin: 5px;
 }
 
@@ -2987,7 +2989,8 @@ member-info a:hover {
 	transform: rotate(45deg) translate(0, 15px) scale(1.2);
 	display: block;
 	width: 100%;
-	height: 100%;
+  height: 100%;
+  
 }
 
 
@@ -3031,7 +3034,7 @@ member-info a:hover {
 
 .member-details > div:after {
 	content: '';
-	background-image: linear-gradient(45deg, #fcd50b 50%, transparent 50%);
+  background-image: linear-gradient(45deg, rgba(255, 255, 255, 0.4) 50%, transparent 50%);
 	position: absolute;
 	top: 0;
 	bottom: 0;
